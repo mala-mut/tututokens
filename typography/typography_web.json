@@ -28,6 +28,18 @@
         }
       },
       "type": "typography"
+    },
+    "test": {
+      "value": {
+        "fontFamily": "ALS Direct"
+      },
+      "type": "typography"
     }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "bigus-accent"
+    ]
   }
 }

@@ -1,22 +1,484 @@
 {
-  "bigus-accent": {
-    "900": {
-      "value": {
-        "fontFamily": "ALS Direct",
-        "fontWeight": "Bold",
-        "fontSize": 17,
-        "lineHeight": 999,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "openType": []
+  "typography_web": {
+    "bigus-accent": {
+      "900": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "850": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "800": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "750": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "700": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "650": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "600": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "550": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "500": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "450": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "400": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "350": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "250": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "200": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "150": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "100": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Bold",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
     },
-    "test": {
-      "value": {
-        "fontFamily": "ALS Direct"
+    "bigus": {
+      "900": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "850": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "800": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "750": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "700": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "650": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "600": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "550": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "500": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "450": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "400": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "350": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "300": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "250": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "200": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "150": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      },
+      "100": {
+        "value": {
+          "fontFamily": "ALS Direct",
+          "fontWeight": "Regular",
+          "fontSize": 17,
+          "lineHeight": "120%",
+          "letterSpacing": 0,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "openType": [],
+          "textDecoration": "none"
+        },
+        "type": "typography"
+      }
     }
   },
   "$themes": [],

@@ -7,7 +7,8 @@
         "fontSize": 17,
         "lineHeight": 999,
         "letterSpacing": 0,
-        "paragraphSpacing": 0
+        "paragraphSpacing": 0,
+        "openType": []
       },
       "type": "typography"
     },

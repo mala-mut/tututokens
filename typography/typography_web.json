@@ -750,7 +750,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -764,7 +764,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -778,7 +778,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -792,7 +792,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -806,7 +806,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -822,7 +822,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -836,7 +836,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -850,7 +850,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -864,7 +864,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"
@@ -878,7 +878,7 @@
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",
-          "openType": [],
+          "openType": ["tnum"],
           "textDecoration": "none"
         },
         "type": "typography"

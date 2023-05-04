@@ -1,7 +1,7 @@
 {
   "typography_ios": {
     "bigus": {
-      "950": {
+      "_950": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -15,7 +15,7 @@
         },
         "type": "typography"
       },
-      "900": {
+      "_900": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -29,7 +29,7 @@
         },
         "type": "typography"
       },
-      "850": {
+      "_850": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -43,7 +43,7 @@
         },
         "type": "typography"
       },
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -57,7 +57,7 @@
         },
         "type": "typography"
       },
-      "750": {
+      "_750": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -71,7 +71,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -85,7 +85,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -113,7 +113,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Regular",
@@ -241,7 +241,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Bold",
@@ -257,7 +257,7 @@
       }
     },
     "text": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -271,7 +271,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -329,7 +329,7 @@
       }
     },
     "text-accent": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -343,7 +343,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -357,7 +357,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -371,7 +371,7 @@
         },
         "type": "typography"
       },
-      "500": {
+      "_500": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -385,7 +385,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -401,7 +401,7 @@
       }
     },
     "compact": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -415,7 +415,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -429,7 +429,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -473,7 +473,7 @@
       }
     },
     "compact-accent": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -487,7 +487,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -501,7 +501,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -515,7 +515,7 @@
         },
         "type": "typography"
       },
-      "500": {
+      "_500": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -529,7 +529,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -545,7 +545,7 @@
       }
     },
     "numeric": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -561,7 +561,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -577,7 +577,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -609,7 +609,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",
@@ -627,7 +627,7 @@
       }
     },
     "numeric-accent": {
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -643,7 +643,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -659,7 +659,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -675,7 +675,7 @@
         },
         "type": "typography"
       },
-      "500": {
+      "_500": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -691,7 +691,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Semibold",
@@ -709,7 +709,7 @@
       }
     },
     "reading": {
-      "900": {
+      "_900": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",
@@ -723,7 +723,7 @@
         },
         "type": "typography"
       },
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",
@@ -737,7 +737,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",
@@ -751,7 +751,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",
@@ -765,7 +765,7 @@
         },
         "type": "typography"
       },
-      "500": {
+      "_500": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",
@@ -779,7 +779,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "PT Serif",
           "fontWeight": "Regular",

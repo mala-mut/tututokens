@@ -2,30 +2,12 @@
   "bigus-accent": {
     "900": {
       "value": {
-        "fontFamily": {
-          "value": "ALS Direct",
-          "type": "fontFamilies"
-        },
-        "fontWeight": {
-          "value": "Bold",
-          "type": "fontWeights"
-        },
-        "fontSize": {
-          "value": 17,
-          "type": "fontSizes"
-        },
-        "lineHeight": {
-          "value": 999,
-          "type": "lineHeights"
-        },
-        "letterSpacing": {
-          "value": 0,
-          "type": "letterSpacing"
-        },
-        "paragraphSpacing": {
-          "value": 0,
-          "type": "paragraphSpacing"
-        }
+        "fontFamily": "ALS Direct",
+        "fontWeight": "Bold",
+        "fontSize": 17,
+        "lineHeight": 999,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0
       },
       "type": "typography"
     },

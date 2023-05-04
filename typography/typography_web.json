@@ -30,10 +30,6 @@
           "value": "none",
           "type": "textCase"
         },
-        "openType": {
-          "value": [],
-          "type": "openType"
-        },
         "textDecoration": {
           "value": "none",
           "type": "textDecoration"

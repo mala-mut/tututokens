@@ -15,7 +15,7 @@
         },
         "type": "typography"
       },
-      "_850": {
+      "850": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
@@ -29,11 +29,11 @@
         },
         "type": "typography"
       },
-      "_800": {
+      "800": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "4.133rem",
+          "fontSize": "4.133333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -47,7 +47,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "3.667rem",
+          "fontSize": "3.666666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -57,11 +57,11 @@
         },
         "type": "typography"
       },
-      "_700": {
+      "700": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "3.267rem",
+          "fontSize": "3.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -75,7 +75,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "2.867rem",
+          "fontSize": "2.866666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -89,7 +89,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "2.533rem",
+          "fontSize": "2.533333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -103,7 +103,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "2.267rem",
+          "fontSize": "2.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -173,7 +173,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "1.267rem",
+          "fontSize": "1.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -187,7 +187,7 @@
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "1.133rem",
+          "fontSize": "1.133333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -211,11 +211,11 @@
         },
         "type": "typography"
       },
-      "_100": {
+      "100": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
-          "fontSize": "0.867rem",
+          "fontSize": "0.866666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -227,7 +227,7 @@
       }
     },
     "bigus": {
-      "_900": {
+      "900": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -241,7 +241,7 @@
         },
         "type": "typography"
       },
-      "_850": {
+      "850": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -255,11 +255,11 @@
         },
         "type": "typography"
       },
-      "_800": {
+      "800": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "4.133rem",
+          "fontSize": "4.133333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -269,11 +269,11 @@
         },
         "type": "typography"
       },
-      "_750": {
+      "750": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "3.667rem",
+          "fontSize": "3.666666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -283,11 +283,11 @@
         },
         "type": "typography"
       },
-      "_700": {
+      "700": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "3.267rem",
+          "fontSize": "3.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -297,11 +297,11 @@
         },
         "type": "typography"
       },
-      "_650": {
+      "650": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "2.867rem",
+          "fontSize": "2.866666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -311,11 +311,11 @@
         },
         "type": "typography"
       },
-      "_600": {
+      "600": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "2.533rem",
+          "fontSize": "2.533333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -325,11 +325,11 @@
         },
         "type": "typography"
       },
-      "_550": {
+      "550": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "2.267rem",
+          "fontSize": "2.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -339,7 +339,7 @@
         },
         "type": "typography"
       },
-      "_500": {
+      "500": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -353,7 +353,7 @@
         },
         "type": "typography"
       },
-      "_450": {
+      "450": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -367,7 +367,7 @@
         },
         "type": "typography"
       },
-      "_400": {
+      "400": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -381,7 +381,7 @@
         },
         "type": "typography"
       },
-      "_350": {
+      "350": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -395,11 +395,11 @@
         },
         "type": "typography"
       },
-      "_300": {
+      "300": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "1.267rem",
+          "fontSize": "1.266666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -409,11 +409,11 @@
         },
         "type": "typography"
       },
-      "_250": {
+      "250": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "1.133rem",
+          "fontSize": "1.133333rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
@@ -437,11 +437,11 @@
         },
         "type": "typography"
       },
-      "_100": {
+      "100": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
-          "fontSize": "0.867rem",
+          "fontSize": "0.866666rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,

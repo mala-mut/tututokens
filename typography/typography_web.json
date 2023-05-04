@@ -15,7 +15,7 @@
         },
         "type": "typography"
       },
-      "850": {
+      "_850": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
@@ -29,7 +29,7 @@
         },
         "type": "typography"
       },
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
@@ -57,7 +57,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
@@ -211,7 +211,7 @@
         },
         "type": "typography"
       },
-      "100": {
+      "_100": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
@@ -227,7 +227,7 @@
       }
     },
     "bigus": {
-      "900": {
+      "_900": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -241,7 +241,7 @@
         },
         "type": "typography"
       },
-      "850": {
+      "_850": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -255,7 +255,7 @@
         },
         "type": "typography"
       },
-      "800": {
+      "_800": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -269,7 +269,7 @@
         },
         "type": "typography"
       },
-      "750": {
+      "_750": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -283,7 +283,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -297,7 +297,7 @@
         },
         "type": "typography"
       },
-      "650": {
+      "_650": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -311,7 +311,7 @@
         },
         "type": "typography"
       },
-      "600": {
+      "_600": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -325,7 +325,7 @@
         },
         "type": "typography"
       },
-      "550": {
+      "_550": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -339,7 +339,7 @@
         },
         "type": "typography"
       },
-      "500": {
+      "_500": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -353,7 +353,7 @@
         },
         "type": "typography"
       },
-      "450": {
+      "_450": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -367,7 +367,7 @@
         },
         "type": "typography"
       },
-      "400": {
+      "_400": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -381,7 +381,7 @@
         },
         "type": "typography"
       },
-      "350": {
+      "_350": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -395,7 +395,7 @@
         },
         "type": "typography"
       },
-      "300": {
+      "_300": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -409,7 +409,7 @@
         },
         "type": "typography"
       },
-      "250": {
+      "_250": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -437,7 +437,7 @@
         },
         "type": "typography"
       },
-      "100": {
+      "_100": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",

@@ -5,7 +5,7 @@
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Bold",
-          "fontSize": 17,
+          "fontSize": "5.2rem",
           "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,

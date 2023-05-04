@@ -25,14 +25,6 @@
         "paragraphSpacing": {
           "value": 0,
           "type": "paragraphSpacing"
-        },
-        "textCase": {
-          "value": "none",
-          "type": "textCase"
-        },
-        "textDecoration": {
-          "value": "none",
-          "type": "textDecoration"
         }
       },
       "type": "typography"

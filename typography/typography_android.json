@@ -271,7 +271,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "Roboto",
           "fontWeight": "Regular",
@@ -332,7 +332,7 @@
       "_800": {
         "value": {
           "fontFamily": "Roboto",
-          "fontWeight": "Semibold",
+          "fontWeight": "Medium",
           "fontSize": 20,
           "lineHeight": 30,
           "letterSpacing": 0.15,
@@ -346,7 +346,7 @@
       "_700": {
         "value": {
           "fontFamily": "Roboto",
-          "fontWeight": "Semibold",
+          "fontWeight": "Medium",
           "fontSize": 18,
           "lineHeight": 26,
           "letterSpacing": 0.15,
@@ -360,7 +360,7 @@
       "_600": {
         "value": {
           "fontFamily": "Roboto",
-          "fontWeight": "Semibold",
+          "fontWeight": "Medium",
           "fontSize": 16,
           "lineHeight": 24,
           "letterSpacing": 0.15,
@@ -374,7 +374,7 @@
       "_500": {
         "value": {
           "fontFamily": "Roboto",
-          "fontWeight": "Semibold",
+          "fontWeight": "Medium",
           "fontSize": 14,
           "lineHeight": 20,
           "letterSpacing": 0.25,
@@ -388,7 +388,7 @@
       "_400": {
         "value": {
           "fontFamily": "Roboto",
-          "fontWeight": "Semibold",
+          "fontWeight": "Medium",
           "fontSize": 12,
           "lineHeight": 18,
           "letterSpacing": 0.4,

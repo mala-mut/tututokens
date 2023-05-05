@@ -271,7 +271,7 @@
         },
         "type": "typography"
       },
-      "700": {
+      "_700": {
         "value": {
           "fontFamily": "SF Pro Text",
           "fontWeight": "Regular",

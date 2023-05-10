@@ -129,7 +129,7 @@
       }
     },
     "bigus-accent": {
-      "950": {
+      "_950": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Bold",
@@ -157,7 +157,7 @@
         },
         "type": "typography"
       },
-      "850": {
+      "_850": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Bold",
@@ -185,7 +185,7 @@
         },
         "type": "typography"
       },
-      "750": {
+      "_750": {
         "value": {
           "fontFamily": "ALS Direct",
           "fontWeight": "Bold",

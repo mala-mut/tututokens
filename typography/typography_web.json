@@ -183,7 +183,7 @@
         },
         "type": "typography"
       },
-      "_250": {
+      "250": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
@@ -202,7 +202,7 @@
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
           "fontSize": "1rem",
-          "lineHeight": "140%",
+          "lineHeight": "120%",
           "letterSpacing": 0,
           "paragraphSpacing": 0,
           "textCase": "none",

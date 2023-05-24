@@ -18,11 +18,11 @@
         </g>
     </svg>
     <style>
-        @media (prefers-color-scheme: dark) { :root {
+        @media (prefers-color-scheme: dark) {
             .st0{fill:#7D71FF;}
             .st1{fill:#0D0B68;}
             .st2{fill:#EDEFFF;}
-        } }
+        }
         @media (min-width: 17px) {
         .big{display:none;}
         }

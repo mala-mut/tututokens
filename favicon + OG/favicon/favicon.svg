@@ -23,7 +23,7 @@
             .st1{fill:#0D0B68;}
             .st2{fill:#EDEFFF;}
         }
-        @media (min-width: 17px) {
+        @media (min-width: 33px) {
         .big{display:none;}
         }
     </style>

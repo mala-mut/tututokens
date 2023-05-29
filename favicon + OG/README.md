@@ -14,7 +14,6 @@
 ```html
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/svg+xml" sizes="any" href="/favicon.svg">
-<link rel="icon" href="/favicon.ico">
 <link rel="manifest" href="/site.webmanifest">
 ```
 

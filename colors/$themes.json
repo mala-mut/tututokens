@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "225cca820091becdda003771fbf76c6b681c3e92",
+    "name": "light",
+    "$figmaStyleReferences": {
+      "light.text.primary": "S:535515505e7c3d63bdcf9b1c56b95e849be146f3,",
+      "light.text.secondary": "S:3c393ec02ea86460975e9c9dbdabe91a9e53b377,",
+      "light.text.brand": "S:4fae4a788c684d2cf68659bf4c005b12d9fc236a,",
+      "light.text.link": "S:9ac41f87027d9a1c69141ebe7771706d273b2d00,",
+      "light.text.positive": "S:6d15e7bff60a9bc2ee0bda2cc92db1048d50f9e2,",
+      "light.text.warning": "S:513f8eb34ba375cf552ac60f129b02e227395dbb,",
+      "light.text.negative": "S:ac25f5cb6144a028b9bbf8eae47e9f1e3a76d4d5,",
+      "light.layer.floor-0": "S:01c8adfb9a785c811fb894a366f4e976b61f6e25,",
+      "light.layer.floor-1": "S:b8d25f3d8f93feac78196bb4d5ef5c5e764fa501,",
+      "light.layer.floor-2": "S:bef59901926a131d410736fb484a66da25adafee,",
+      "light.layer.overlay": "S:39ae990af7242ed42637ef3c4335d74324101ced,"
+    },
+    "selectedTokenSets": {
+      "core": "source",
+      "light": "enabled"
+    }
+  }
+]

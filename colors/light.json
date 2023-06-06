@@ -57,13 +57,5 @@
         }
       }
     }
-  },
-  "$metadata": {
-    "tokenSetOrder": {
-      "0": {
-        "value": "typography_android",
-        "type": "other"
-      }
-    }
   }
 }

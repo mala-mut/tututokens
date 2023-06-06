@@ -44,7 +44,7 @@
         "type": "color"
       },
       "overlay": {
-        "value": "{core.halva.900}",
+        "value": "rgba({core.halva.900}, 0.1)",
         "type": "color"
       }
     }

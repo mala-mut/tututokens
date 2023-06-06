@@ -45,16 +45,7 @@
       },
       "overlay": {
         "value": "{core.halva.900}",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.2",
-              "space": "lch"
-            }
-          }
-        }
+        "type": "color"
       }
     }
   }

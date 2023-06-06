@@ -44,15 +44,26 @@
         "type": "color"
       },
       "overlay": {
-        "value": "{core.halva.000}",
-        "type": "color"
+        "value": "{core.halva.900}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.1",
+              "space": "lch"
+            }
+          }
+        }
       }
     }
   },
-  "$themes": [],
   "$metadata": {
-    "tokenSetOrder": [
-      "typography_android"
-    ]
+    "tokenSetOrder": {
+      "0": {
+        "value": "typography_android",
+        "type": "other"
+      }
+    }
   }
 }

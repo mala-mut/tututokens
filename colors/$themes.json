@@ -31,7 +31,8 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "dark": "enabled"
+      "dark": "enabled",
+      "static": "source"
     }
   },
   {

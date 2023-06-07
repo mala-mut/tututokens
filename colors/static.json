@@ -1,5 +1,31 @@
 {
   "static": {
+    "bg": {
+      "secondary": {
+        "value": "{core.halva.200}",
+        "type": "color"
+      },
+      "brand-secondary": {
+        "value": "{core.curacao.250}",
+        "type": "color"
+      },
+      "link-secondary": {
+        "value": "{core.curacao.200}",
+        "type": "color"
+      },
+      "positive-secondary": {
+        "value": "{core.kiwi.200}",
+        "type": "color"
+      },
+      "warning-secondary": {
+        "value": "{core.banana.300}",
+        "type": "color"
+      },
+      "negative-secondary": {
+        "value": "{core.strawberry.300}",
+        "type": "color"
+      }
+    },
     "layer": {
       "overlay": {
         "value": "rgba({core.halva.900}, 0.2)",

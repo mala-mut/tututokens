@@ -1,0 +1,10 @@
+{
+  "static": {
+    "layer": {
+      "overlay": {
+        "value": "rgba({core.halva.900}, 0.1)",
+        "type": "color"
+      }
+    }
+  }
+}

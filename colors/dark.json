@@ -1,0 +1,22 @@
+{
+  "dark": {
+    "layer": {
+      "floor-0": {
+        "value": "{core.halva.100}",
+        "type": "color"
+      },
+      "floor-1": {
+        "value": "{core.halva.000}",
+        "type": "color"
+      },
+      "floor-2": {
+        "value": "{core.halva.000}",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "rgba({core.halva.900}, 0.1)",
+        "type": "color"
+      }
+    }
+  }
+}

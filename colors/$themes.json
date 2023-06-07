@@ -19,5 +19,14 @@
       "core": "source",
       "light": "enabled"
     }
+  },
+  {
+    "id": "b05bf3bac55896200ad089b7a732b4b33202daa6",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "dark": "enabled"
+    }
   }
 ]

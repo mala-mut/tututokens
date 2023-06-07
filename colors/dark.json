@@ -66,6 +66,10 @@
       "negative": {
         "value": "{core.strawberry.450}",
         "type": "color"
+      },
+      "rating": {
+        "value": "{core.banana.500}",
+        "type": "color"
       }
     },
     "bg": {

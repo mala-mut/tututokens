@@ -64,7 +64,19 @@
       "dark.layer.floor-0": "S:f287a20c362d2aaf3f8af9e901f73f2dcdca6429,",
       "dark.layer.floor-1": "S:1f0a97e89c624a882371e36032f956c6e470bea6,",
       "dark.layer.floor-2": "S:bab28cd5ee6ef172cfd46c0ae595d3421f7d1956,",
-      "dark.layer.overlay": "S:1c441ff2a5910d67210c94070765d2258461088a,"
+      "dark.layer.overlay": "S:1c441ff2a5910d67210c94070765d2258461088a,",
+      "dark.bg.primary": "S:1c6da33b5d67dc791d9851db47467de64e41ec92,",
+      "dark.bg.secondary-transparent": "S:791bd883002fb63ad83c65b47e459d3f50416696,",
+      "dark.bg.brand-primary": "S:a4afe06c1dad900d19de20aeb818b348c10e8ff5,",
+      "dark.bg.brand-secondary-transparent": "S:d1d26fdf056ac467f34477f6333ad716cb73201a,",
+      "dark.bg.link-primary": "S:4e113492ace9fb13fca8042446be0c50b0e1cdbc,",
+      "dark.bg.link-secondary-transparent": "S:004d5c8ed520c5b842964f89fefd320fd567447f,",
+      "dark.bg.positive-primary": "S:bb60905af0b4eb752ce845091e9cb33bae31ade8,",
+      "dark.bg.positive-secondary-transparent": "S:bc3c4d99ec63cd27b61c70a3bd7dbdf759c60570,",
+      "dark.bg.warning-primary": "S:add0c164c86408aa9e38ac223aa70c54748fcafa,",
+      "dark.bg.warning-secondary-transparent": "S:ed0c2b7eb0dfa5de03b4185a3f67b3ac13eca771,",
+      "dark.bg.negative-primary": "S:b0ed6156f1d342ea383e538b54cc34ea3c0b58d9,",
+      "dark.bg.negative-secondary-transparent": "S:e70a772070b7c08d51b7cf10452f2005ef165c0f,"
     },
     "selectedTokenSets": {
       "core": "source",

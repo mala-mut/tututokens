@@ -6,7 +6,7 @@
         "type": "color"
       },
       "brand-secondary": {
-        "value": "{core.curacao.250}",
+        "value": "{core.curacao.300}",
         "type": "color"
       },
       "link-secondary": {

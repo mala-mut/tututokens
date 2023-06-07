@@ -23,7 +23,12 @@
   {
     "id": "b05bf3bac55896200ad089b7a732b4b33202daa6",
     "name": "dark",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "dark.layer.floor-0": "S:f287a20c362d2aaf3f8af9e901f73f2dcdca6429,",
+      "dark.layer.floor-1": "S:1f0a97e89c624a882371e36032f956c6e470bea6,",
+      "dark.layer.floor-2": "S:bab28cd5ee6ef172cfd46c0ae595d3421f7d1956,",
+      "dark.layer.overlay": "S:1c441ff2a5910d67210c94070765d2258461088a,"
+    },
     "selectedTokenSets": {
       "core": "source",
       "dark": "enabled"

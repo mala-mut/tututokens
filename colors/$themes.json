@@ -36,7 +36,20 @@
       "light.bg-special._warning-secondary-transparent": "S:f39d8736c72ee899568eb61e3cfd360b145625de,",
       "light.bg-special._warning-secondary-colorless": "S:68f12c797cfec9c1f6aa4f8b488beab160d1e814,",
       "light.bg-special._negative-secondary-transparent": "S:7059450f7585ad995f1e9398e895e2a44faacfb6,",
-      "light.bg-special._negative-secondary-colorless": "S:f20fb8c8d8f36b1cb0552dcb4d881b8b47693264,"
+      "light.bg-special._negative-secondary-colorless": "S:f20fb8c8d8f36b1cb0552dcb4d881b8b47693264,",
+      "light.bg.primary": "S:027dc6d0278262a5c9a79975687a1f95393b8a9c,",
+      "light.bg.secondary": "S:3d1d07baa5aded2743f944cfc9c9c6f02f23f8e9,",
+      "light._bg-special._secondary-transparent": "S:8325cbadb12dd694b345b69c58a995f58888d669,",
+      "light._bg-special._brand-secondary-transparent": "S:68af00f9bd56cf10169ef3d6ae53cf2cf481157d,",
+      "light._bg-special._brad-secondary-colorless": "S:f2c230c7709975afca447dae4e747be6d39563e4,",
+      "light._bg-special._link-secondary-transparent": "S:10f3bcf7a994f88616da67c5e3ad0104e9f597c0,",
+      "light._bg-special._link-secondary-colorless": "S:d64dc57859dc52f869443d684786ecd42d5df7f7,",
+      "light._bg-special._positive-secondary-transparent": "S:13b8a9189c78b45c1566f2e7c06cb4abccf45ba2,",
+      "light._bg-special._positive-secondary-colorless": "S:9ef6a97837536c463e2be764b5d5bf6366786c56,",
+      "light._bg-special._warning-secondary-transparent": "S:a1793351496d410faff140b5161029d2ac205f59,",
+      "light._bg-special._warning-secondary-colorless": "S:4c3f939511938f43fb612a8a861fb4b06d322a4b,",
+      "light._bg-special._negative-secondary-transparent": "S:0222fe839f3308938f59173052ea35eccc8d4121,",
+      "light._bg-special._negative-secondary-colorless": "S:63d53ab7c40bc1c0158f57c228a2579307d5522d,"
     },
     "selectedTokenSets": {
       "core": "source",

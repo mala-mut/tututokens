@@ -1,5 +1,35 @@
 {
   "dark": {
+    "text": {
+      "primary": {
+        "value": "{core.halva.100}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{core.halva.500}",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{core.curacao.500}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{core.curacao.450}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{core.kiwi.500}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{core.banana.500}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{core.strawberry.450}",
+        "type": "color"
+      }
+    },
     "bg": {
       "primary": {
         "value": "{core.halva.550}",

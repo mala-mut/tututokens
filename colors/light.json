@@ -80,28 +80,6 @@
         "type": "color"
       }
     },
-    "_bg-special": {
-      "_brad-secondary-colorless": {
-        "value": "{core.curacao.350}",
-        "type": "color"
-      },
-      "_link-secondary-colorless": {
-        "value": "{core.curacao.300}",
-        "type": "color"
-      },
-      "_positive-secondary-colorless": {
-        "value": "{core.kiwi.300}",
-        "type": "color"
-      },
-      "_warning-secondary-colorless": {
-        "value": "{core.banana.300}",
-        "type": "color"
-      },
-      "_negative-secondary-colorless": {
-        "value": "{core.strawberry.300}",
-        "type": "color"
-      }
-    },
     "layer": {
       "floor-0": {
         "value": "{core.halva.100}",

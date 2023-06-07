@@ -43,10 +43,6 @@
         "value": "{core.halva.350}",
         "type": "color"
       },
-      "separator": {
-        "value": "rgba({core.halva.900}, 0.07)",
-        "type": "color"
-      },
       "brand": {
         "value": "{core.curacao.550}",
         "type": "color"
@@ -69,6 +65,32 @@
       },
       "rating": {
         "value": "{core.banana.500}",
+        "type": "color"
+      }
+    },
+    "border": {
+      "default": {
+        "value": "rgba({core.halva.900}, 0.3)",
+        "type": "color"
+      },
+      "separator": {
+        "value": "rgba({core.halva.900}, 0.07)",
+        "type": "color"
+      },
+      "brand": {
+        "value": "{core.curacao.450}",
+        "type": "color"
+      },
+      "positive": {
+        "value": "{core.kiwi.550}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{core.banana.550}",
+        "type": "color"
+      },
+      "negative": {
+        "value": "{core.strawberry.500}",
         "type": "color"
       }
     },

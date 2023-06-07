@@ -2,15 +2,15 @@
   "dark": {
     "layer": {
       "floor-0": {
-        "value": "{core.halva.100}",
+        "value": "{core.halva.900}",
         "type": "color"
       },
       "floor-1": {
-        "value": "{core.halva.000}",
+        "value": "{core.halva.800}",
         "type": "color"
       },
       "floor-2": {
-        "value": "{core.halva.000}",
+        "value": "{core.halva.700}",
         "type": "color"
       }
     }

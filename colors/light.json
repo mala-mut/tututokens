@@ -31,11 +31,11 @@
       }
     },
     "bg": {
-      "neutral-primary": {
+      "primary": {
         "value": "{core.halva.500}",
         "type": "color"
       },
-      "neutral-secondary": {
+      "secondary": {
         "value": "{core.halva.100}",
         "type": "color"
       },
@@ -80,8 +80,8 @@
         "type": "color"
       }
     },
-    "bg-special": {
-      "_neutral-secondary-transparent": {
+    "_bg-special": {
+      "_secondary-transparent": {
         "value": "rgba({core.halva.500}, 0.4)",
         "type": "color"
       },

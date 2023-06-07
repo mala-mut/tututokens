@@ -33,5 +33,14 @@
       "core": "source",
       "dark": "enabled"
     }
+  },
+  {
+    "id": "214986dd3ed08c2ffa57d30505d1029300094e06",
+    "name": "static",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "static": "enabled"
+    }
   }
 ]

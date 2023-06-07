@@ -36,11 +36,11 @@
         "type": "color"
       },
       "secondary": {
-        "value": "{core.halva.500}",
+        "value": "{core.halva.300}",
         "type": "color"
       },
       "tertiary": {
-        "value": "{core.halva.700}",
+        "value": "{core.halva.500}",
         "type": "color"
       },
       "brand": {

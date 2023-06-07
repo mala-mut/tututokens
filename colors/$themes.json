@@ -87,7 +87,23 @@
   {
     "id": "214986dd3ed08c2ffa57d30505d1029300094e06",
     "name": "static",
-    "$figmaStyleReferences": {},
+    "$figmaStyleReferences": {
+      "static.text.primary-on-light": "S:2521a6890d9574219cfa7d1d1b5c86dac65fc80f,",
+      "static.text.primary-on-dark": "S:e886cc37a013fe9acf928af37fdd4d086eba437c,",
+      "static.text.secondary-on-light": "S:c4dd0ca29bfddf95e7e52ecfb09812146fe769a4,",
+      "static.text.secondary-on-dark": "S:d41a5911d3e38d365d20e583dc1dcf270771519b,",
+      "static.graphic.primary-on-light": "S:8fbfe39d76c83728325291ef0c962dd1bd0a5304,",
+      "static.graphic.primary-on-dark": "S:b2143db366e34b1bbe1d030a17ab3b76544732dd,",
+      "static.graphic.secondary-on-light": "S:f448c275b36520e45abfb79daaccb325ae16c043,",
+      "static.graphic.secondary-on-dark": "S:e93be6cae873aeffff90817a5ba6b6e783fb62ec,",
+      "static.bg.secondary": "S:0ad74417ba5401e204ad6afbb981262c1d8500ef,",
+      "static.bg.brand-secondary": "S:cc76363166d28c959e3db6e56497bcb6f4e42de2,",
+      "static.bg.link-secondary": "S:65b9f6cc9f6b1d80261efc76f64d9c3a3dd7ab93,",
+      "static.bg.positive-secondary": "S:1093959315c5693cfe04f4211711e5e559875c7d,",
+      "static.bg.warning-secondary": "S:5ecaf54556b95745bf4c79f2b25db154a4c9d06b,",
+      "static.bg.negative-secondary": "S:15209b1aa27ea2a35a99345921959966fb31f201,",
+      "static.layer.overlay": "S:e1073d8e9ed31187973fa186bd83b18b3a579216,"
+    },
     "selectedTokenSets": {
       "core": "source",
       "static": "enabled"

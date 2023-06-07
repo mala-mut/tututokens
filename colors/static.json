@@ -9,23 +9,23 @@
         "value": "{core.halva.100}",
         "type": "color"
       },
-      "brand": {
+      "brand-on-color": {
         "value": "{core.curacao.700}",
         "type": "color"
       },
-      "link": {
+      "link-on-color": {
         "value": "{core.curacao.650}",
         "type": "color"
       },
-      "positive": {
+      "positive-on-color": {
         "value": "{core.kiwi.650}",
         "type": "color"
       },
-      "warning": {
+      "warning-on-color": {
         "value": "{core.banana.650}",
         "type": "color"
       },
-      "negative": {
+      "negative-on-color": {
         "value": "{core.strawberry.700}",
         "type": "color"
       }

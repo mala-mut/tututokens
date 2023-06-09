@@ -1,0 +1,8 @@
+{
+  "tokenSetOrder": [
+    "android",
+    "core",
+    "ios",
+    "web"
+  ]
+}

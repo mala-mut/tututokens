@@ -229,7 +229,7 @@
     "big-accent": {
       "900": {
         "value": {
-          "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+          "fontFamily": "{core.font.brand}, Helvetica, Arial, sans-serif",
           "fontWeight": "Bold",
           "fontSize": "5.2rem",
           "lineHeight": "120%",

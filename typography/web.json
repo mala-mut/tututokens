@@ -2,7 +2,7 @@
   "big": {
     "_900": {
       "value": {
-        "fontFamily": "{core.font.brand}, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "5.2rem",
         "lineHeight": "120%",
@@ -16,7 +16,7 @@
     },
     "_850": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "4.6rem",
         "lineHeight": "120%",
@@ -30,7 +30,7 @@
     },
     "_800": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "4.133333rem",
         "lineHeight": "120%",
@@ -44,7 +44,7 @@
     },
     "_750": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "3.666666rem",
         "lineHeight": "120%",
@@ -58,7 +58,7 @@
     },
     "_700": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "3.266666rem",
         "lineHeight": "120%",
@@ -72,7 +72,7 @@
     },
     "_650": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "2.866666rem",
         "lineHeight": "120%",
@@ -86,7 +86,7 @@
     },
     "_600": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "2.533333rem",
         "lineHeight": "120%",
@@ -100,7 +100,7 @@
     },
     "_550": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "2.266666rem",
         "lineHeight": "120%",
@@ -114,7 +114,7 @@
     },
     "_500": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "2rem",
         "lineHeight": "120%",
@@ -128,7 +128,7 @@
     },
     "_450": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1.8rem",
         "lineHeight": "120%",
@@ -142,7 +142,7 @@
     },
     "_400": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1.6rem",
         "lineHeight": "120%",
@@ -156,7 +156,7 @@
     },
     "_350": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1.4rem",
         "lineHeight": "120%",
@@ -170,7 +170,7 @@
     },
     "_300": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1.266666rem",
         "lineHeight": "120%",
@@ -184,7 +184,7 @@
     },
     "_250": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1.133333rem",
         "lineHeight": "120%",
@@ -198,7 +198,7 @@
     },
     "200": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "1rem",
         "lineHeight": "120%",
@@ -212,7 +212,7 @@
     },
     "_100": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Regular",
         "fontSize": "0.866666rem",
         "lineHeight": "120%",
@@ -242,7 +242,7 @@
     },
     "_850": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "4.6rem",
         "lineHeight": "120%",
@@ -256,7 +256,7 @@
     },
     "_800": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "4.133333rem",
         "lineHeight": "120%",
@@ -270,7 +270,7 @@
     },
     "750": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "3.666666rem",
         "lineHeight": "120%",
@@ -284,7 +284,7 @@
     },
     "_700": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "3.266666rem",
         "lineHeight": "120%",
@@ -298,7 +298,7 @@
     },
     "650": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "2.866666rem",
         "lineHeight": "120%",
@@ -312,7 +312,7 @@
     },
     "600": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "2.533333rem",
         "lineHeight": "120%",
@@ -326,7 +326,7 @@
     },
     "550": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "2.266666rem",
         "lineHeight": "120%",
@@ -340,7 +340,7 @@
     },
     "500": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "2rem",
         "lineHeight": "120%",
@@ -354,7 +354,7 @@
     },
     "450": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1.8rem",
         "lineHeight": "120%",
@@ -368,7 +368,7 @@
     },
     "400": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1.6rem",
         "lineHeight": "120%",
@@ -382,7 +382,7 @@
     },
     "350": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1.4rem",
         "lineHeight": "120%",
@@ -396,7 +396,7 @@
     },
     "300": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1.266666rem",
         "lineHeight": "120%",
@@ -410,7 +410,7 @@
     },
     "250": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1.133333rem",
         "lineHeight": "120%",
@@ -424,7 +424,7 @@
     },
     "200": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "1rem",
         "lineHeight": "120%",
@@ -438,7 +438,7 @@
     },
     "_100": {
       "value": {
-        "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+        "fontFamily": "{font.brand}, Helvetica, Arial, sans-serif",
         "fontWeight": "Bold",
         "fontSize": "0.866666rem",
         "lineHeight": "120%",

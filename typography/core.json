@@ -3,6 +3,10 @@
     "brand": {
       "value": "ALS Direct",
       "type": "fontFamilies"
+    },
+    "font-size": {
+      "value": 15,
+      "type": "fontSizes"
     }
   }
 }

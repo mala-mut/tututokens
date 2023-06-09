@@ -1,11 +1,5 @@
 {
-  "base": {
-    "font-size": {
-      "value": 15,
-      "type": "fontSizes"
-    }
-  },
-  "typography_web": {
+  "web": {
     "big": {
       "_900": {
         "value": {
@@ -976,11 +970,5 @@
         "type": "typography"
       }
     }
-  },
-  "$themes": [],
-  "$metadata": {
-    "tokenSetOrder": [
-      "typography_web"
-    ]
   }
 }

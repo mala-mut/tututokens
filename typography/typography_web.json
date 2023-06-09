@@ -1,4 +1,10 @@
 {
+  "global": {
+    "fontsize": {
+      "value": 15,
+      "type": "fontsize"
+    }
+  },
   "typography_web": {
     "bigus": {
       "_900": {

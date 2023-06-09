@@ -6,10 +6,10 @@
     }
   },
   "typography_web": {
-    "bigus": {
+    "big": {
       "_900": {
         "value": {
-          "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",
+          "fontFamily": "{core.font.brand}, Helvetica, Arial, sans-serif",
           "fontWeight": "Regular",
           "fontSize": "5.2rem",
           "lineHeight": "120%",
@@ -232,7 +232,7 @@
         "type": "typography"
       }
     },
-    "bigus-accent": {
+    "big-accent": {
       "900": {
         "value": {
           "fontFamily": "ALS Direct, Helvetica, Arial, sans-serif",

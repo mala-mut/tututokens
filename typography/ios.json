@@ -1,6 +1,6 @@
 {
   "typography_ios": {
-    "bigus": {
+    "big": {
       "_950": {
         "value": {
           "fontFamily": "ALS Direct",
@@ -128,7 +128,7 @@
         "type": "typography"
       }
     },
-    "bigus-accent": {
+    "big-accent": {
       "_950": {
         "value": {
           "fontFamily": "ALS Direct",

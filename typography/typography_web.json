@@ -1,8 +1,8 @@
 {
-  "global": {
-    "fontsize": {
+  "base": {
+    "font-size": {
       "value": 15,
-      "type": "fontsize"
+      "type": "fontSizes"
     }
   },
   "typography_web": {

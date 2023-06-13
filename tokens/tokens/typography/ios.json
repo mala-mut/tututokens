@@ -1,5 +1,20 @@
 {
   "big": {
+    "500": {
+      "value": {
+        "fontFamily": "{font.brand}",
+        "fontWeight": "Regular",
+        "fontSize": 15,
+        "lineHeight": 18,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "headline"
+      },
+      "type": "typography"
+    },
     "_950": {
       "value": {
         "fontFamily": "{font.brand}",
@@ -105,21 +120,6 @@
       },
       "type": "typography"
     },
-    "500": {
-      "value": {
-        "fontFamily": "{font.brand}",
-        "fontWeight": "Regular",
-        "fontSize": 15,
-        "lineHeight": 18,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "headline"
-      },
-      "type": "typography"
-    },
     "_400": {
       "value": {
         "fontFamily": "{font.brand}",
@@ -137,18 +137,63 @@
     }
   },
   "big-accent": {
-    "_950": {
+    "500": {
       "value": {
         "fontFamily": "{font.brand}",
         "fontWeight": "Bold",
-        "fontSize": 34,
-        "lineHeight": 40,
+        "fontSize": 15,
+        "lineHeight": 18,
         "letterSpacing": 0,
         "paragraphSpacing": 0,
         "textCase": "none",
         "openType": [],
         "textDecoration": "none",
-        "relativeTo": "largeTitle"
+        "relativeTo": "headline"
+      },
+      "type": "typography"
+    },
+    "600": {
+      "value": {
+        "fontFamily": "{font.brand}",
+        "fontWeight": "Bold",
+        "fontSize": 17,
+        "lineHeight": 20,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "headline"
+      },
+      "type": "typography"
+    },
+    "700": {
+      "value": {
+        "fontFamily": "{font.brand}",
+        "fontWeight": "Bold",
+        "fontSize": 19,
+        "lineHeight": 22,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "title2"
+      },
+      "type": "typography"
+    },
+    "800": {
+      "value": {
+        "fontFamily": "{font.brand}",
+        "fontWeight": "Bold",
+        "fontSize": 24,
+        "lineHeight": 28,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "title1"
       },
       "type": "typography"
     },
@@ -158,6 +203,21 @@
         "fontWeight": "Bold",
         "fontSize": 30,
         "lineHeight": 36,
+        "letterSpacing": 0,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "largeTitle"
+      },
+      "type": "typography"
+    },
+    "_950": {
+      "value": {
+        "fontFamily": "{font.brand}",
+        "fontWeight": "Bold",
+        "fontSize": 34,
+        "lineHeight": 40,
         "letterSpacing": 0,
         "paragraphSpacing": 0,
         "textCase": "none",
@@ -182,36 +242,6 @@
       },
       "type": "typography"
     },
-    "800": {
-      "value": {
-        "fontFamily": "{font.brand}",
-        "fontWeight": "Bold",
-        "fontSize": 24,
-        "lineHeight": 28,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "title1"
-      },
-      "type": "typography"
-    },
-    "700": {
-      "value": {
-        "fontFamily": "{font.brand}",
-        "fontWeight": "Bold",
-        "fontSize": 19,
-        "lineHeight": 22,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "title2"
-      },
-      "type": "typography"
-    },
     "_750": {
       "value": {
         "fontFamily": "{font.brand}",
@@ -224,36 +254,6 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title2"
-      },
-      "type": "typography"
-    },
-    "600": {
-      "value": {
-        "fontFamily": "{font.brand}",
-        "fontWeight": "Bold",
-        "fontSize": 17,
-        "lineHeight": 20,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "headline"
-      },
-      "type": "typography"
-    },
-    "500": {
-      "value": {
-        "fontFamily": "{font.brand}",
-        "fontWeight": "Bold",
-        "fontSize": 15,
-        "lineHeight": 18,
-        "letterSpacing": 0,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "headline"
       },
       "type": "typography"
     },
@@ -274,6 +274,51 @@
     }
   },
   "text": {
+    "400": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 13,
+        "lineHeight": 18,
+        "letterSpacing": -0.08,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "footnote"
+      },
+      "type": "typography"
+    },
+    "500": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 15,
+        "lineHeight": 20,
+        "letterSpacing": -0.24,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "body"
+      },
+      "type": "typography"
+    },
+    "600": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 17,
+        "lineHeight": 24,
+        "letterSpacing": -0.44,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "body"
+      },
+      "type": "typography"
+    },
     "_800": {
       "value": {
         "fontFamily": "SF Pro Text",
@@ -301,51 +346,6 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "600": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 17,
-        "lineHeight": 24,
-        "letterSpacing": -0.44,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "500": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 15,
-        "lineHeight": 20,
-        "letterSpacing": -0.24,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "400": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 13,
-        "lineHeight": 18,
-        "letterSpacing": -0.08,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "footnote"
       },
       "type": "typography"
     }
@@ -428,6 +428,36 @@
     }
   },
   "compact": {
+    "400": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 13,
+        "lineHeight": 16,
+        "letterSpacing": -0.08,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "footnote"
+      },
+      "type": "typography"
+    },
+    "500": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 15,
+        "lineHeight": 18,
+        "letterSpacing": -0.24,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [],
+        "textDecoration": "none",
+        "relativeTo": "body"
+      },
+      "type": "typography"
+    },
     "_800": {
       "value": {
         "fontFamily": "SF Pro Text",
@@ -470,36 +500,6 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "500": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 15,
-        "lineHeight": 18,
-        "letterSpacing": -0.24,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "400": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 13,
-        "lineHeight": 16,
-        "letterSpacing": -0.08,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [],
-        "textDecoration": "none",
-        "relativeTo": "footnote"
       },
       "type": "typography"
     }
@@ -582,6 +582,23 @@
     }
   },
   "numeric": {
+    "500": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Regular",
+        "fontSize": 15,
+        "lineHeight": 20,
+        "letterSpacing": -0.24,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "openType": [
+          "tnum"
+        ],
+        "textDecoration": "none",
+        "relativeTo": "body"
+      },
+      "type": "typography"
+    },
     "_800": {
       "value": {
         "fontFamily": "SF Pro Text",
@@ -623,23 +640,6 @@
         "fontSize": 17,
         "lineHeight": 24,
         "letterSpacing": -0.44,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "openType": [
-          "tnum"
-        ],
-        "textDecoration": "none",
-        "relativeTo": "body"
-      },
-      "type": "typography"
-    },
-    "500": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Regular",
-        "fontSize": 15,
-        "lineHeight": 20,
-        "letterSpacing": -0.24,
         "paragraphSpacing": 0,
         "textCase": "none",
         "openType": [

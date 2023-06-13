@@ -140,5 +140,14 @@
       "core": "source",
       "ios": "enabled"
     }
+  },
+  {
+    "id": "65ca6257eedfb6e2938e537aff91859abbde83b3",
+    "name": "android",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "android": "enabled",
+      "core": "source"
+    }
   }
 ]

@@ -903,7 +903,7 @@
       "type": "typography"
     }
   },
-  "reading": {
+  "article": {
     "900": {
       "value": {
         "fontFamily": "{font.article}, serif",

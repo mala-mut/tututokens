@@ -4,6 +4,10 @@
       "value": "ALS Direct",
       "type": "fontFamilies"
     },
+    "article": {
+      "value": "PT Serif",
+      "type": "fontFamilies"
+    },
     "font-size": {
       "value": 15,
       "type": "fontSizes"

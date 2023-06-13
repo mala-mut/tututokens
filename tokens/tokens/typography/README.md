@@ -81,10 +81,41 @@
 
 **_TODO:_**
 - Разобраться с настроками letter-spacing для нативных шрифтов
+- Пока что игнорируем настройку font-style (считаем, что все шрифты имеют стиль normal). Когда 
+  появятся италические шрифты, сделаем доработку на парсинг этого параметра (либо из одной 
+  строки, либо с ручным параметром font-style)
 
 ## iOS
 
-To be done
+Для веба используем файл `ios.json`.
+
+[Здесь](https://www.figma.com/file/BrNRnxUVMXaD2597vmB8mJ/%F0%9F%8D%8F-%5BiOS%5D-Typography?type=design&node-id=0%3A1&t=Ze6SM2P1L5kZsd4C-1) показано, как эти стили должны выглядеть (стили
+с `_` покрашены в бледно-серый).
+
+### Настройки стиля
+
+- `fontFamily` — шрифт, используемый в стиле. Кастомные шрифты (не системные)
+  подключены в виде переменных (например, `{font.brand}`). Для iOS используем otf-файлы
+  шрифтов
+- `fontWeight` — хранит информацию о начертании (конкретном шрифтовом файле)
+- `fontSize` — размер шрифта в `pt`
+- `lineHeight` — высота строки в `pt`
+- `letterSpacing` — межбуквенное расстояние в `pt`
+- `paragraphSpacing` — игнорируем, использоваться не будет
+- `textCase` — возможные значения: `none`, `uppercase`, `lowercase`, `capitalize`
+- `textDecoration` — возможные значения: `none`, `underline`, `line-through`
+- `openType` — ручной параметр (не парсится фигмой автоматически), отвечает за настройки
+  [OpenType-фич](https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop), фичи передаются
+  в массиве, который может быть пустым. Пока что используем только фичу `tnum` (моноширинные
+  цифры), учимся парсить только её
+- `relativeTo` — ручной параметр (никак не трактуется фигмой), который назначает, какому стилю 
+  Dynamic Type соответствует тот или иной наш кастомный стиль (благодаря этому, наша типографика будет адаптироваться под 
+  пользовательские настройки, про это [здесь](https://developer.apple.com/documentation/SwiftUI/Applying-Custom-Fonts-to-Text)и [здесь](https://developer.apple.com/design/human-interface-guidelines/typography)). 
+  Это строка с возможными значениями: `largeTitle`, `title`, `title2`, `title3`, `headline`, 
+  `subheadline`, `body`, `callout`, `caption`, `caption2`, `footnote` 
+
+**_TODO:_**
+- Возможно, после сверки с демо аппом, надо будет подфиксить значения `relativeTo`
 
 ## Android
 

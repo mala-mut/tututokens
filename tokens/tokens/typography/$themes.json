@@ -76,5 +76,14 @@
       "core": "source",
       "web": "enabled"
     }
+  },
+  {
+    "id": "c50f12419b0688319e34252c3d1df3bf612c9e2a",
+    "name": "ios",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "source",
+      "ios": "enabled"
+    }
   }
 ]

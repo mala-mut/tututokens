@@ -3,7 +3,7 @@
     "big": {
       "500": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 15,
           "lineHeight": 18,
@@ -17,7 +17,7 @@
       },
       "_950": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 34,
           "lineHeight": 40,
@@ -31,7 +31,7 @@
       },
       "_900": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 30,
           "lineHeight": 36,
@@ -45,7 +45,7 @@
       },
       "_850": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 27,
           "lineHeight": 32,
@@ -59,7 +59,7 @@
       },
       "_800": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 24,
           "lineHeight": 28,
@@ -73,7 +73,7 @@
       },
       "_750": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 21,
           "lineHeight": 24,
@@ -87,7 +87,7 @@
       },
       "_700": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 19,
           "lineHeight": 22,
@@ -101,7 +101,7 @@
       },
       "_600": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 17,
           "lineHeight": 20,
@@ -115,7 +115,7 @@
       },
       "_400": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Regular",
           "fontSize": 13,
           "lineHeight": 16,
@@ -131,7 +131,7 @@
     "big-accent": {
       "500": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 15,
           "lineHeight": 18,
@@ -145,7 +145,7 @@
       },
       "600": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 17,
           "lineHeight": 20,
@@ -159,7 +159,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 19,
           "lineHeight": 22,
@@ -173,7 +173,7 @@
       },
       "800": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 24,
           "lineHeight": 28,
@@ -187,7 +187,7 @@
       },
       "900": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 30,
           "lineHeight": 36,
@@ -201,7 +201,7 @@
       },
       "_950": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 34,
           "lineHeight": 40,
@@ -215,7 +215,7 @@
       },
       "_850": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 27,
           "lineHeight": 32,
@@ -229,7 +229,7 @@
       },
       "_750": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 21,
           "lineHeight": 24,
@@ -243,7 +243,7 @@
       },
       "_400": {
         "value": {
-          "fontFamily": "ALS Direct",
+          "fontFamily": "{font.brand}",
           "fontWeight": "Bold",
           "fontSize": 13,
           "lineHeight": 16,

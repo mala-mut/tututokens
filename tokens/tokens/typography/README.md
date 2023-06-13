@@ -119,4 +119,28 @@
 
 ## Android
 
-To be done
+
+Для веба используем файл `android.json`.
+
+[Здесь](https://www.figma.com/file/ute1GB3pJ6XIvJea4GdDI6/%F0%9F%A4%96-%5Bandroid%5D-Typography?type=design&node-id=0%3A1&t=xGks0a4LOAr7T7QV-1) показано, как эти стили должны выглядеть (стили
+с `_` покрашены в бледно-серый).
+
+### Настройки стиля
+
+- `fontFamily` — шрифт, используемый в стиле. Кастомные шрифты (не системные)
+  подключены в виде переменных (например, `{font.brand}`). Для Android используем otf-файлы
+  шрифтов
+- `fontWeight` — хранит информацию о начертании (конкретном шрифтовом файле)
+- `fontSize` — размер шрифта в `sp`
+- `lineHeight` — высота строки в `sp`
+- `letterSpacing` — межбуквенное расстояние, не имеет размерности. Обязательно надо свериться с 
+  тем, как они отрендерятся (мы добиваемся pixel-perfect с поправкой на dp), потому что 
+  результат зависит от того, каким методом накидывается межбуквенное расстояние (как минимум, 
+  есть [такой](https://developer.android.com/reference/android/widget/TextView.html#setLetterSpacing(float)) и [такой](https://developer.android.com/reference/android/widget/TextView.html#attr_android:letterSpacing))
+- `paragraphSpacing` — игнорируем, использоваться не будет
+- `textCase` — возможные значения: `none`, `uppercase`, `lowercase`, `capitalize`
+- `textDecoration` — возможные значения: `none`, `underline`, `line-through`
+- `openType` — ручной параметр (не парсится фигмой автоматически), отвечает за настройки
+  [OpenType-фич](https://www.w3.org/TR/css-fonts-3/#font-feature-settings-prop), фичи передаются
+  в массиве, который может быть пустым. Пока что используем только фичу `tnum` (моноширинные
+  цифры), учимся парсить только её

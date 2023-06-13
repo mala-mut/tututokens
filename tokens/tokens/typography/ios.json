@@ -755,7 +755,7 @@
       "type": "typography"
     }
   },
-  "reading": {
+  "article": {
     "_900": {
       "value": {
         "fontFamily": "{font.article}",

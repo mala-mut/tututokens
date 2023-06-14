@@ -104,7 +104,7 @@
         "type": "color"
       },
       "tertiary-transparent": {
-        "value": "rgba({core.halva.500}, 0.15)",
+        "value": "rgba({core.halva.500}, 0.1)",
         "type": "color"
       },
       "brand-primary": {

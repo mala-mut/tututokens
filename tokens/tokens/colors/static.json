@@ -41,24 +41,48 @@
         "value": "{core.halva.200}",
         "type": "color"
       },
+      "tertiary": {
+        "value": "{core.halva.100}",
+        "type": "color"
+      },
       "brand-secondary": {
         "value": "{core.curacao.300}",
+        "type": "color"
+      },
+      "brand-tertiary": {
+        "value": "{core.curacao.100}",
         "type": "color"
       },
       "link-secondary": {
         "value": "{core.curacao.200}",
         "type": "color"
       },
+      "link-tertiary": {
+        "value": "{core.curacao.100}",
+        "type": "color"
+      },
       "positive-secondary": {
-        "value": "{core.kiwi.200}",
+        "value": "{core.kiwi.300}",
+        "type": "color"
+      },
+      "positive-tertiary": {
+        "value": "{core.kiwi.100}",
         "type": "color"
       },
       "warning-secondary": {
         "value": "{core.banana.300}",
         "type": "color"
       },
+      "warning-tertiary": {
+        "value": "{core.banana.100}",
+        "type": "color"
+      },
       "negative-secondary": {
         "value": "{core.strawberry.300}",
+        "type": "color"
+      },
+      "negative-tertiary": {
+        "value": "{core.strawberry.100}",
         "type": "color"
       }
     },

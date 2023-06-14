@@ -103,12 +103,20 @@
         "value": "rgba({core.halva.500}, 0.3)",
         "type": "color"
       },
+      "tertiary-transparent": {
+        "value": "rgba({core.halva.500}, 0.15)",
+        "type": "color"
+      },
       "brand-primary": {
         "value": "{core.curacao.550}",
         "type": "color"
       },
       "brand-secondary-transparent": {
-        "value": "rgba({core.curacao.450}, 0.4)",
+        "value": "rgba({core.curacao.550}, 0.35)",
+        "type": "color"
+      },
+      "brand-tertiary-transparent": {
+        "value": "rgba({core.curacao.450}, 0.2)",
         "type": "color"
       },
       "link-primary": {
@@ -116,7 +124,11 @@
         "type": "color"
       },
       "link-secondary-transparent": {
-        "value": "rgba({core.curacao.400}, 0.4)",
+        "value": "rgba({core.curacao.450}, 0.4)",
+        "type": "color"
+      },
+      "link-tertiary-transparent": {
+        "value": "rgba({core.curacao.400}, 0.2)",
         "type": "color"
       },
       "positive-primary": {
@@ -124,7 +136,11 @@
         "type": "color"
       },
       "positive-secondary-transparent": {
-        "value": "rgba({core.kiwi.500}, 0.3)",
+        "value": "rgba({core.kiwi.500}, 0.4)",
+        "type": "color"
+      },
+      "positive-tertiary-transparent": {
+        "value": "rgba({core.kiwi.450}, 0.15)",
         "type": "color"
       },
       "warning-primary": {
@@ -135,12 +151,20 @@
         "value": "rgba({core.banana.450}, 0.5)",
         "type": "color"
       },
+      "warning-tertiary-transparent": {
+        "value": "rgba({core.banana.450}, 0.15)",
+        "type": "color"
+      },
       "negative-primary": {
         "value": "{core.strawberry.500}",
         "type": "color"
       },
       "negative-secondary-transparent": {
         "value": "rgba({core.strawberry.500}, 0.4)",
+        "type": "color"
+      },
+      "negative-tertiary-transparent": {
+        "value": "rgba({core.strawberry.500}, 0.15)",
         "type": "color"
       }
     },

@@ -37,12 +37,28 @@
       }
     },
     "bg": {
-      "secondary": {
+      "primary-on-light": {
+        "value": "{core.halva.900}",
+        "type": "color"
+      },
+      "primary-on-dark": {
+        "value": "{core.halva.000}",
+        "type": "color"
+      },
+      "secondary-on-light": {
         "value": "{core.halva.200}",
         "type": "color"
       },
-      "tertiary": {
+      "secondary-on-dark": {
+        "value": "{core.halva.800}",
+        "type": "color"
+      },
+      "tertiary-on-light": {
         "value": "{core.halva.100}",
+        "type": "color"
+      },
+      "tertiary-on-dark": {
+        "value": "{core.halva.700}",
         "type": "color"
       },
       "brand-secondary": {

@@ -180,6 +180,10 @@
       "floor-2": {
         "value": "{core.halva.000}",
         "type": "color"
+      },
+      "overlay": {
+        "value": "rgba({core.halva.900}, 0.2)",
+        "type": "color"
       }
     }
   }

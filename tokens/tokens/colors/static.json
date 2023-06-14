@@ -85,12 +85,6 @@
         "value": "{core.strawberry.100}",
         "type": "color"
       }
-    },
-    "layer": {
-      "overlay": {
-        "value": "rgba({core.halva.900}, 0.2)",
-        "type": "color"
-      }
     }
   }
 }

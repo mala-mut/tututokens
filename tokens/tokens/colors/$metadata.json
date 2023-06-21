@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
     "core",
-    "light",
-    "dark",
-    "static"
+    "base/dark",
+    "base/light",
+    "base/static",
+    "component_badge-example"
   ]
 }

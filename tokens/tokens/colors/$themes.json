@@ -69,8 +69,7 @@
     },
     "selectedTokenSets": {
       "core": "source",
-      "light": "enabled",
-      "static": "source"
+      "base/light": "enabled"
     }
   },
   {
@@ -95,9 +94,7 @@
       "dark.bg.negative-secondary-transparent": "S:e70a772070b7c08d51b7cf10452f2005ef165c0f,"
     },
     "selectedTokenSets": {
-      "core": "source",
-      "dark": "enabled",
-      "static": "source"
+      "core": "source"
     }
   },
   {
@@ -121,8 +118,7 @@
       "static.layer.overlay": "S:e1073d8e9ed31187973fa186bd83b18b3a579216,"
     },
     "selectedTokenSets": {
-      "core": "source",
-      "static": "enabled"
+      "core": "source"
     }
   }
 ]

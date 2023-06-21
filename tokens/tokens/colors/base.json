@@ -64,12 +64,6 @@
         "type": "color"
       }
     },
-    "border": {
-      "separator": {
-        "value": "rgba({core.halva.900}, 0.07)",
-        "type": "color"
-      }
-    },
     "layer": {
       "floor-0": {
         "value": "{core.halva.100}",
@@ -151,12 +145,6 @@
       },
       "negative": {
         "value": "{core.strawberry.450}",
-        "type": "color"
-      }
-    },
-    "border": {
-      "separator": {
-        "value": "rgba({core.halva.100}, 0.07)",
         "type": "color"
       }
     },

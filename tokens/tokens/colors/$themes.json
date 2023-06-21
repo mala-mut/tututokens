@@ -76,10 +76,10 @@
     "id": "b05bf3bac55896200ad089b7a732b4b33202daa6",
     "name": "dark",
     "$figmaStyleReferences": {
-      "dark.layer.floor-0": "S:f287a20c362d2aaf3f8af9e901f73f2dcdca6429,",
-      "dark.layer.floor-1": "S:1f0a97e89c624a882371e36032f956c6e470bea6,",
-      "dark.layer.floor-2": "S:bab28cd5ee6ef172cfd46c0ae595d3421f7d1956,",
-      "dark.layer.overlay": "S:1c441ff2a5910d67210c94070765d2258461088a,",
+      "dark.layer.floor-0": "S:b3b57a2727ed38f25f20a67dea36c20760fc48b3,",
+      "dark.layer.floor-1": "S:b843c92085e932312eab1ebb39425358d01bc277,",
+      "dark.layer.floor-2": "S:6a5aca68606cdfae38ec01c7693e4798457a5039,",
+      "dark.layer.overlay": "S:292c60cbfd01e139b0b65bfd216f51ecd0824ab5,",
       "dark.bg.primary": "S:1c6da33b5d67dc791d9851db47467de64e41ec92,",
       "dark.bg.secondary-transparent": "S:791bd883002fb63ad83c65b47e459d3f50416696,",
       "dark.bg.brand-primary": "S:a4afe06c1dad900d19de20aeb818b348c10e8ff5,",
@@ -91,10 +91,26 @@
       "dark.bg.warning-primary": "S:add0c164c86408aa9e38ac223aa70c54748fcafa,",
       "dark.bg.warning-secondary-transparent": "S:ed0c2b7eb0dfa5de03b4185a3f67b3ac13eca771,",
       "dark.bg.negative-primary": "S:b0ed6156f1d342ea383e538b54cc34ea3c0b58d9,",
-      "dark.bg.negative-secondary-transparent": "S:e70a772070b7c08d51b7cf10452f2005ef165c0f,"
+      "dark.bg.negative-secondary-transparent": "S:e70a772070b7c08d51b7cf10452f2005ef165c0f,",
+      "dark.text.primary": "S:adb89a928429bb584bfc8645729e9f2f0bc314e6,",
+      "dark.text.secondary": "S:140edde7f33ff4198ccc9fd2eb9f3bbb78fa9c3f,",
+      "dark.text.brand": "S:ef73c8947a931cc7728916f492fa740bf16dc7ad,",
+      "dark.text.link": "S:827200b749cdc3112d0ccde1ffee4c9462b74c40,",
+      "dark.text.positive": "S:ab53fc856b55de68d6ca614721ee2a5c06f2d587,",
+      "dark.text.warning": "S:ed8d50f1d3371880b851cd3d26271d14b52b2805,",
+      "dark.text.negative": "S:e77e26614c4676f6b0080ad4f6b8fc8f0fd669e2,",
+      "dark.graphic.primary": "S:63bf677e402d2ea95cd05d1b15c042f4e1bac75e,",
+      "dark.graphic.secondary": "S:dc757273164c07080047b90aa2ec8e1ed698369c,",
+      "dark.graphic.tertiary": "S:63d6ce7828994df5263c5d5cefa69878e3f4ff8b,",
+      "dark.graphic.brand": "S:cc0def0c0043b1d9c37196652c4d99e94f47a728,",
+      "dark.graphic.link": "S:5461079d6004b8376a85d4d36100e397beee719b,",
+      "dark.graphic.positive": "S:911695ff3fc993004e28b824ea666e847807305c,",
+      "dark.graphic.warning": "S:e85d5bd7a6cd05afb51abff81550257d7cc3ec84,",
+      "dark.graphic.negative": "S:7b21abd92bd3c9aad0ea7c544ba01c6501ad327c,"
     },
     "selectedTokenSets": {
-      "core": "source"
+      "core": "source",
+      "base/dark": "enabled"
     }
   },
   {

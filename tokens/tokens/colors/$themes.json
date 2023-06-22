@@ -139,5 +139,13 @@
       "core": "source",
       "base/static": "enabled"
     }
+  },
+  {
+    "id": "408989cd868241bc7dd30b0d2c5bcb76a73bcf80",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core": "enabled"
+    }
   }
 ]

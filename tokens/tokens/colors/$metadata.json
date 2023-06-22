@@ -4,6 +4,8 @@
     "base/dark",
     "base/light",
     "base/static",
-    "component_badge-example"
+    "component_badge-example/dark",
+    "component_badge-example/light",
+    "component_badge-example/static"
   ]
 }

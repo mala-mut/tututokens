@@ -1,84 +1,66 @@
 {
+  "type": "color",
   "text": {
     "primary": {
-      "value": "{core.halva.100}",
-      "type": "color"
+      "value": "{core.halva.100}"
     },
     "secondary": {
-      "value": "rgba({core.halva.100}, 0.6)",
-      "type": "color"
+      "value": "rgba({core.halva.100}, 0.6)"
     },
     "brand": {
-      "value": "{core.curacao.500}",
-      "type": "color"
+      "value": "{core.curacao.500}"
     },
     "link": {
-      "value": "{core.curacao.450}",
-      "type": "color"
+      "value": "{core.curacao.450}"
     },
     "positive": {
-      "value": "{core.kiwi.500}",
-      "type": "color"
+      "value": "{core.kiwi.500}"
     },
     "warning": {
-      "value": "{core.banana.500}",
-      "type": "color"
+      "value": "{core.banana.500}"
     },
     "negative": {
-      "value": "{core.strawberry.450}",
-      "type": "color"
+      "value": "{core.strawberry.450}"
     }
   },
   "graphic": {
     "primary": {
-      "value": "{core.halva.100}",
-      "type": "color"
+      "value": "{core.halva.100}"
     },
     "secondary": {
-      "value": "{core.halva.300}",
-      "type": "color"
+      "value": "{core.halva.300}"
     },
     "tertiary": {
-      "value": "{core.halva.500}",
-      "type": "color"
+      "value": "{core.halva.500}"
     },
     "brand": {
-      "value": "{core.curacao.500}",
-      "type": "color"
+      "value": "{core.curacao.500}"
     },
     "link": {
-      "value": "{core.curacao.450}",
-      "type": "color"
+      "value": "{core.curacao.450}"
     },
     "positive": {
-      "value": "{core.kiwi.500}",
-      "type": "color"
+      "value": "{core.kiwi.500}"
     },
     "warning": {
-      "value": "{core.banana.500}",
-      "type": "color"
+      "value": "{core.banana.500}"
     },
     "negative": {
-      "value": "{core.strawberry.450}",
-      "type": "color"
+      "value": "{core.strawberry.450}"
     }
   },
   "layer": {
     "floor-0": {
-      "value": "{core.halva.900}",
-      "type": "color"
+      "value": "{core.halva.900}"
     },
     "floor-1": {
-      "value": "{core.halva.800}",
-      "type": "color"
+      "value": "{core.halva.800}"
     },
     "floor-2": {
-      "value": "{core.halva.700}",
-      "type": "color"
+      "value": "{core.halva.700}"
     },
     "overlay": {
-      "value": "rgba({core.halva.900}, 0.3)",
-      "type": "color"
+      "value": "rgba({core.halva.900}, 0.3)"
     }
   }
 }

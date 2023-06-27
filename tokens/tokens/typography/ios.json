@@ -1,4 +1,5 @@
 {
+  "type": "typography",
   "big": {
     "500": {
       "value": {
@@ -12,8 +13,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "headline"
-      },
-      "type": "typography"
+      }
     },
     "_950": {
       "value": {
@@ -27,8 +27,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "largeTitle"
-      },
-      "type": "typography"
+      }
     },
     "_900": {
       "value": {
@@ -42,8 +41,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "largeTitle"
-      },
-      "type": "typography"
+      }
     },
     "_850": {
       "value": {
@@ -57,8 +55,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title1"
-      },
-      "type": "typography"
+      }
     },
     "_800": {
       "value": {
@@ -72,8 +69,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title1"
-      },
-      "type": "typography"
+      }
     },
     "_750": {
       "value": {
@@ -87,8 +83,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title2"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -102,8 +97,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title2"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -117,8 +111,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "headline"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -132,8 +125,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "subheadline"
-      },
-      "type": "typography"
+      }
     }
   },
   "big-accent": {
@@ -149,8 +141,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "headline"
-      },
-      "type": "typography"
+      }
     },
     "600": {
       "value": {
@@ -164,8 +155,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "headline"
-      },
-      "type": "typography"
+      }
     },
     "700": {
       "value": {
@@ -179,8 +169,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title2"
-      },
-      "type": "typography"
+      }
     },
     "800": {
       "value": {
@@ -194,8 +183,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title1"
-      },
-      "type": "typography"
+      }
     },
     "900": {
       "value": {
@@ -209,8 +197,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "largeTitle"
-      },
-      "type": "typography"
+      }
     },
     "_950": {
       "value": {
@@ -224,8 +211,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "largeTitle"
-      },
-      "type": "typography"
+      }
     },
     "_850": {
       "value": {
@@ -239,8 +225,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title1"
-      },
-      "type": "typography"
+      }
     },
     "_750": {
       "value": {
@@ -254,8 +239,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "title2"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -269,8 +253,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "subheadline"
-      },
-      "type": "typography"
+      }
     }
   },
   "text": {
@@ -286,8 +269,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     },
     "500": {
       "value": {
@@ -301,8 +283,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "600": {
       "value": {
@@ -316,8 +297,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_800": {
       "value": {
@@ -331,8 +311,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -346,8 +325,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     }
   },
   "text-accent": {
@@ -363,8 +341,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -378,8 +355,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -393,8 +369,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_500": {
       "value": {
@@ -408,8 +383,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -423,8 +397,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     }
   },
   "compact": {
@@ -440,8 +413,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     },
     "500": {
       "value": {
@@ -455,8 +427,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_800": {
       "value": {
@@ -470,8 +441,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -485,8 +455,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -500,8 +469,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     }
   },
   "compact-accent": {
@@ -517,8 +485,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -532,8 +499,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -547,8 +513,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_500": {
       "value": {
@@ -562,8 +527,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -577,8 +541,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     }
   },
   "numeric": {
@@ -596,8 +559,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_800": {
       "value": {
@@ -613,8 +575,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -630,8 +591,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -647,8 +607,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -664,8 +623,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     }
   },
   "numeric-accent": {
@@ -683,8 +641,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -700,8 +657,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -717,8 +673,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_500": {
       "value": {
@@ -734,8 +689,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -751,8 +705,7 @@
         ],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     }
   },
   "article": {
@@ -768,8 +721,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_800": {
       "value": {
@@ -783,8 +735,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_700": {
       "value": {
@@ -798,8 +749,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_600": {
       "value": {
@@ -813,8 +763,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_500": {
       "value": {
@@ -828,8 +777,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "body"
-      },
-      "type": "typography"
+      }
     },
     "_400": {
       "value": {
@@ -843,8 +791,7 @@
         "openType": [],
         "textDecoration": "none",
         "relativeTo": "footnote"
-      },
-      "type": "typography"
+      }
     }
   }
 }

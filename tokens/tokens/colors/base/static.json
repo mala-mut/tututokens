@@ -13,6 +13,9 @@
       },
       "secondary-on-dark": {
         "value": "rgba({core.halva.100}, 0.8)"
+      },
+      "tertiary-on-dark": {
+        "value": "rgba({core.strawberry.500}, 0.8)"
       }
     },
     "graphic": {

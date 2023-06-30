@@ -60,10 +60,10 @@
       "value": "{core.halva.000}"
     },
     "secondary": {
-      "value": "{core.curacao.500}"
+      "value": "{core.curacao.350}"
     },
     "tertiary": {
-      "value": "{core.curacao.500}"
+      "value": "{core.curacao.350}"
     }
   },
   "border-hover": {

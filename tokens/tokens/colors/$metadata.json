@@ -6,6 +6,8 @@
     "base/static",
     "component_badge-example/dark",
     "component_badge-example/light",
-    "component_badge-example/static"
+    "component_badge-example/static",
+    "component_button/dark",
+    "component_button/light"
   ]
 }

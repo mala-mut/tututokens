@@ -68,7 +68,7 @@
   },
   "border-hover": {
     "tertiary": {
-      "value": "rgba({core.curacao.500}, 0.3)"
+      "value": "rgba({core.curacao.350}, 0.3)"
     }
   },
   "text-hover": {

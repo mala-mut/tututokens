@@ -1,7 +1,5 @@
 {
-  "": {
-    "type": "color"
-  },
+  "type": "color",
   "static": {
     "text": {
       "primary-on-light": {

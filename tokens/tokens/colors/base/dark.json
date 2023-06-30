@@ -1,7 +1,5 @@
 {
-  "": {
-    "type": "color"
-  },
+  "type": "color",
   "text": {
     "primary": {
       "value": "{core.halva.100}"

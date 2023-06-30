@@ -1,7 +1,5 @@
 {
-  "": {
-    "type": "color"
-  },
+  "type": "color",
   "core": {
     "strawberry": {
       "100": {

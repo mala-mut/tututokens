@@ -1,7 +1,5 @@
 {
-  "": {
-    "type": "color"
-  },
+  "type": "color",
   "bg": {
     "primary": {
       "value": "{core.curacao.500}"

@@ -19,10 +19,10 @@
       "value": "{core.halva.000}"
     },
     "secondary": {
-      "value": "{core.curacao.550}"
+      "value": "{core.curacao.450}"
     },
     "tertiary": {
-      "value": "{core.curacao.550}"
+      "value": "{core.curacao.450}"
     }
   },
   "border": {
@@ -35,10 +35,10 @@
       "value": "{core.halva.000}"
     },
     "secondary": {
-      "value": "{core.curacao.550}"
+      "value": "{core.curacao.450}"
     },
     "tertiary": {
-      "value": "{core.curacao.550}"
+      "value": "{core.curacao.450}"
     },
     "info": {
       "value": "{core.halva.000}"

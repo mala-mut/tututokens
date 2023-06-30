@@ -81,5 +81,43 @@
     "tertiary": {
       "value": "{core.curacao.650}"
     }
+  },
+  "bg-disabled": {
+    "primary": {
+      "value": "{core.halva.100}"
+    },
+    "secondary": {
+      "value": "{core.halva.100}"
+    },
+    "tertiary": {
+      "value": "{core.halva.000}"
+    }
+  },
+  "graphic-disabled": {
+    "primary": {
+      "value": "{core.halva.400}"
+    },
+    "secondary": {
+      "value": "{core.halva.400}"
+    },
+    "tertiary": {
+      "value": "{core.curacao.400}"
+    }
+  },
+  "border-disabled": {
+    "tertiary": {
+      "value": "rgba({core.halva.650}, 0.3)"
+    }
+  },
+  "text-disabled": {
+    "primary": {
+      "value": "{core.halva.400}"
+    },
+    "secondary": {
+      "value": "{core.halva.400}"
+    },
+    "tertiary": {
+      "value": "{core.halva.400}"
+    }
   }
 }

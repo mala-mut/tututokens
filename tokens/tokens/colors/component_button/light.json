@@ -2,88 +2,86 @@
   "": {
     "type": "color"
   },
-  "light": {
-    "bg": {
-      "primary": {
-        "value": "{core.curacao.550}"
-      },
-      "secondary": {
-        "value": "{core.curacao.100}"
-      },
-      "tertiary": {
-        "value": "{core.halva.000}"
-      },
-      "info": {
-        "value": "{core.banana.200}"
-      }
+  "bg": {
+    "primary": {
+      "value": "{core.curacao.550}"
     },
-    "graphic": {
-      "primary": {
-        "value": "{core.halva.000}"
-      },
-      "secondary": {
-        "value": "{core.curacao.550}"
-      },
-      "tertiary": {
-        "value": "{core.curacao.550}"
-      }
+    "secondary": {
+      "value": "{core.curacao.100}"
     },
-    "border": {
-      "tertiary": {
-        "value": "rgba({core.curacao.550}, 0.3)"
-      }
+    "tertiary": {
+      "value": "{core.halva.000}"
     },
-    "text": {
-      "primary": {
-        "value": "{core.halva.000}"
-      },
-      "secondary": {
-        "value": "{core.curacao.550}"
-      },
-      "tertiary": {
-        "value": "{core.curacao.550}"
-      },
-      "info": {
-        "value": "{core.halva.900}"
-      }
+    "info": {
+      "value": "{core.banana.200}"
+    }
+  },
+  "graphic": {
+    "primary": {
+      "value": "{core.halva.000}"
     },
-    "bg-hover": {
-      "primary": {
-        "value": "{core.curacao.600}"
-      },
-      "secondary": {
-        "value": "{core.curacao.200}"
-      },
-      "tertiary": {
-        "value": "{core.halva.100}"
-      }
+    "secondary": {
+      "value": "{core.curacao.550}"
     },
-    "graphic-hover": {
-      "primary": {
-        "value": "{core.halva.000}"
-      },
-      "secondary": {
-        "value": "{core.curacao.650}"
-      },
-      "tertiary": {
-        "value": "{core.curacao.650}"
-      }
+    "tertiary": {
+      "value": "{core.curacao.550}"
+    }
+  },
+  "border": {
+    "tertiary": {
+      "value": "rgba({core.curacao.550}, 0.3)"
+    }
+  },
+  "text": {
+    "primary": {
+      "value": "{core.halva.000}"
     },
-    "border-hover": {
-      "tertiary": {
-        "value": "rgba({core.curacao.650}, 0.3)"
-      }
+    "secondary": {
+      "value": "{core.curacao.550}"
     },
-    "text-hover": {
-      "primary": {
-        "value": "{core.halva.000}"
-      },
-      "secondary": {
-        "value": "{core.curacao.650}"
-      },
-      "tertiary": {
-        "value": "{core.curacao.650}"
-      }
+    "tertiary": {
+      "value": "{core.curacao.550}"
+    },
+    "info": {
+      "value": "{core.halva.900}"
+    }
+  },
+  "bg-hover": {
+    "primary": {
+      "value": "{core.curacao.600}"
+    },
+    "secondary": {
+      "value": "{core.curacao.200}"
+    },
+    "tertiary": {
+      "value": "{core.halva.100}"
+    }
+  },
+  "graphic-hover": {
+    "primary": {
+      "value": "{core.halva.000}"
+    },
+    "secondary": {
+      "value": "{core.curacao.650}"
+    },
+    "tertiary": {
+      "value": "{core.curacao.650}"
+    }
+  },
+  "border-hover": {
+    "tertiary": {
+      "value": "rgba({core.curacao.650}, 0.3)"
+    }
+  },
+  "text-hover": {
+    "primary": {
+      "value": "{core.halva.000}"
+    },
+    "secondary": {
+      "value": "{core.curacao.650}"
+    },
+    "tertiary": {
+      "value": "{core.curacao.650}"
     }
   }
 }

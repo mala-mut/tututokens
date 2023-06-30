@@ -1,0 +1,41 @@
+{
+  "type": "color",
+  "static": {
+    "text": {
+      "primary-on-light": {
+        "value": "{core.halva.900}"
+      },
+      "primary-on-dark": {
+        "value": "{core.halva.100}"
+      },
+      "secondary-on-light": {
+        "value": "rgba({core.halva.900}, 0.8)"
+      },
+      "secondary-on-dark": {
+        "value": "rgba({core.halva.100}, 0.8)"
+      }
+    },
+    "graphic": {
+      "primary-on-light": {
+        "value": "{core.halva.900}"
+      },
+      "primary-on-dark": {
+        "value": "{core.halva.100}"
+      },
+      "secondary-on-light": {
+        "value": "{core.halva.550}"
+      },
+      "secondary-on-dark": {
+        "value": "{core.halva.500}"
+      }
+    },
+    "bg": {
+      "primary-on-light": {
+        "value": "{core.halva.900}"
+      },
+      "primary-on-dark": {
+        "value": "{core.halva.000}"
+      }
+    }
+  }
+}

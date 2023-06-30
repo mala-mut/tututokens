@@ -5,13 +5,13 @@
       "value": "{core.curacao.500}"
     },
     "secondary": {
-      "value": "{core.curacao.800}"
+      "value": "{core.halva.700}"
     },
     "tertiary": {
       "value": "{core.halva.800}"
     },
     "info": {
-      "value": "{core.banana.700}"
+      "value": "{core.banana.500}"
     }
   },
   "graphic": {

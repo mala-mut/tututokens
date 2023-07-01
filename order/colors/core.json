@@ -1,0 +1,148 @@
+{
+  "base": {
+    "blackberry": {
+      "value": "#000",
+      "type": "color"
+    },
+    "icecream": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "coal": {
+      "value": "#161f2b",
+      "type": "color"
+    },
+    "biege": {
+      "value": "#f9f4de",
+      "type": "color"
+    },
+    "transparent": {
+      "value": "rgba(0,0,0,0)",
+      "type": "color"
+    }
+  },
+  "light": {
+    "halva": {
+      "value": "#808999",
+      "type": "color"
+    },
+    "rain": {
+      "value": "#a0acc0",
+      "type": "color"
+    },
+    "sashagrey": {
+      "value": "#c3cfdf",
+      "type": "color"
+    },
+    "fog": {
+      "value": "#edf2fa",
+      "type": "color"
+    },
+    "cloud": {
+      "value": "#e7edf4",
+      "type": "color"
+    },
+    "ink": {
+      "value": "#4b6aa6",
+      "type": "color"
+    },
+    "curacao": {
+      "value": "#0073ff",
+      "type": "color"
+    },
+    "kiwi": {
+      "value": "#3da112",
+      "type": "color"
+    },
+    "lime": {
+      "value": "#5ac82c",
+      "type": "color"
+    },
+    "mint": {
+      "value": "#dbffb8",
+      "type": "color"
+    },
+    "raspberry": {
+      "value": "#ff4169",
+      "type": "color"
+    },
+    "strawberry": {
+      "value": "#ff6157",
+      "type": "color"
+    },
+    "lemon": {
+      "value": "#ffee55",
+      "type": "color"
+    },
+    "banana": {
+      "value": "#fff699",
+      "type": "color"
+    },
+    "bluealt": {
+      "value": "#128cff",
+      "type": "color"
+    }
+  },
+  "dark": {
+    "halva": {
+      "value": "#8092aa",
+      "type": "color"
+    },
+    "rain": {
+      "value": "#697c96",
+      "type": "color"
+    },
+    "sashagrey": {
+      "value": "#465c77",
+      "type": "color"
+    },
+    "fog": {
+      "value": "#293a50",
+      "type": "color"
+    },
+    "cloud": {
+      "value": "#344964",
+      "type": "color"
+    },
+    "ink": {
+      "value": "#c1d1f1",
+      "type": "color"
+    },
+    "curacao": {
+      "value": "#00a9ff",
+      "type": "color"
+    },
+    "kiwi": {
+      "value": "#3eaf0e",
+      "type": "color"
+    },
+    "lime": {
+      "value": "#67d741",
+      "type": "color"
+    },
+    "mint": {
+      "value": "#25471f",
+      "type": "color"
+    },
+    "raspberry": {
+      "value": "#ff2e5a",
+      "type": "color"
+    },
+    "strawberry": {
+      "value": "#d23c55",
+      "type": "color"
+    },
+    "lemon": {
+      "value": "#dfaa00",
+      "type": "color"
+    },
+    "banana": {
+      "value": "#5b2f20",
+      "type": "color"
+    },
+    "bluealt": {
+      "value": "#161F2B",
+      "type": "color"
+    }
+  }
+}

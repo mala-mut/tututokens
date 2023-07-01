@@ -33,84 +33,84 @@
       "description": "--o-color-biege"
     },
     "halva": {
-      "value": "{core.base.light.halva}",
+      "value": "{core.light.halva}",
       "type": "color",
       "description": "--o-color-halva"
     },
     "rain": {
-      "value": "{core.base.light.rain}",
+      "value": "{core.light.rain}",
       "type": "color",
       "description": "--o-color-rain"
     },
     "sashagrey": {
-      "value": "{core.base.light.sashagrey}",
+      "value": "{core.light.sashagrey}",
       "type": "color",
       "description": "--o-color-sashagrey"
     },
     "fog": {
-      "value": "{core.base.light.fog}",
+      "value": "{core.light.fog}",
       "type": "color",
       "description": "--o-color-fog"
     },
     "cloud": {
-      "value": "{core.base.light.cloud}",
+      "value": "{core.light.cloud}",
       "type": "color",
       "description": "--o-color-cloud"
     },
     "ink": {
-      "value": "{core.base.light.ink}",
+      "value": "{core.light.ink}",
       "type": "color",
       "description": "--o-color-ink"
     },
     "curacao": {
-      "value": "{core.base.light.curacao}",
+      "value": "{core.light.curacao}",
       "type": "color",
       "description": "--o-color-curacao"
     },
     "kiwi": {
-      "value": "{core.base.light.kiwi}",
+      "value": "{core.light.kiwi}",
       "type": "color",
       "description": "--o-color-kiwi"
     },
     "lime": {
-      "value": "{core.base.light.lime}",
+      "value": "{core.light.lime}",
       "type": "color",
       "description": "--o-color-lime"
     },
     "mint": {
-      "value": "{core.base.light.mint}",
+      "value": "{core.light.mint}",
       "type": "color",
       "description": "--o-color-mint"
     },
     "raspberry": {
-      "value": "{core.base.light.raspberry}",
+      "value": "{core.light.raspberry}",
       "type": "color",
       "description": "--o-color-raspberry"
     },
     "strawberry": {
-      "value": "{core.base.light.strawberry}",
+      "value": "{core.light.strawberry}",
       "type": "color",
       "description": "--o-color-strawberry"
     },
     "lemon": {
-      "value": "{core.base.light.lemon}",
+      "value": "{core.light.lemon}",
       "type": "color",
       "description": "--o-color-lemon"
     },
     "banana": {
-      "value": "{core.base.light.banana}",
+      "value": "{core.light.banana}",
       "type": "color",
       "description": "--o-color-banana"
     },
     "bluealt": {
-      "value": "{core.base.light.bluealt}",
+      "value": "{core.light.bluealt}",
       "type": "color",
       "description": "--o-color-bluealt"
     }
   },
   "shadow": {
     "rgb": {
-      "value": "{core.base.light.ink}",
+      "value": "{core.light.ink}",
       "type": "color",
       "description": "--o-shadow-rgb-color"
     }
@@ -122,12 +122,12 @@
   },
   "focus-ring": {
     "color": {
-      "value": "rgba({core.base.light.curacao}, 0.1)",
+      "value": "rgba({core.light.curacao}, 0.1)",
       "type": "color",
       "description": "--o-focus-ring-color"
     },
     "hover": {
-      "value": "rgba({core.base.light.raspberry}, 0.1)",
+      "value": "rgba({core.light.raspberry}, 0.1)",
       "type": "color",
       "description": "--o-focus-ring-hover-color"
     }
@@ -144,17 +144,17 @@
       "description": "--o-text-color-light"
     },
     "danger": {
-      "value": "{core.base.light.raspberry}",
+      "value": "{core.light.raspberry}",
       "type": "color",
       "description": "--o-text-color-danger"
     },
     "success": {
-      "value": "{core.base.light.kiwi}",
+      "value": "{core.light.kiwi}",
       "type": "color",
       "description": "--o-text-color-success"
     },
     "secondary": {
-      "value": "{core.base.light.halva}",
+      "value": "{core.light.halva}",
       "type": "color",
       "description": "--o-text-color-secondary"
     }
@@ -171,7 +171,7 @@
       "description": "--o-panel-background"
     },
     "border": {
-      "value": "{core.base.light.fog}",
+      "value": "{core.light.fog}",
       "type": "color",
       "description": "--o-panel-border-color"
     },
@@ -182,7 +182,7 @@
         "description": "--o-panel-info-text-color"
       },
       "background": {
-        "value": "{core.base.light.fog}",
+        "value": "{core.light.fog}",
         "type": "color",
         "description": "--o-panel-info-background"
       }
@@ -206,7 +206,7 @@
         "description": "--o-panel-warning-text-color"
       },
       "background": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-panel-warning-background"
       }
@@ -218,7 +218,7 @@
         "description": "--o-panel-danger-text-color"
       },
       "background": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-panel-danger-background"
       }
@@ -230,7 +230,7 @@
         "description": "--o-panel-success-text-color"
       },
       "background": {
-        "value": "{core.base.light.mint}",
+        "value": "{core.light.mint}",
         "type": "color",
         "description": "--o-panel-success-background"
       }
@@ -250,12 +250,12 @@
   },
   "link": {
     "color": {
-      "value": "{core.base.light.curacao}",
+      "value": "{core.light.curacao}",
       "type": "color",
       "description": "--o-link-color"
     },
     "hover": {
-      "value": "{core.base.light.raspberry}",
+      "value": "{core.light.raspberry}",
       "type": "color",
       "description": "--o-link-hover-color"
     },
@@ -266,7 +266,7 @@
         "description": "--o-link-color-dark"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-link-hover-color-dark"
       }
@@ -278,14 +278,14 @@
         "description": "--o-link-color-light"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-link-hover-color-light"
       }
     },
     "danger": {
       "color": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-link-color-danger"
       },
@@ -297,24 +297,24 @@
     },
     "success": {
       "color": {
-        "value": "{core.base.light.kiwi}",
+        "value": "{core.light.kiwi}",
         "type": "color",
         "description": "--o-link-color-success"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-link-hover-color-success"
       }
     },
     "secondary": {
       "color": {
-        "value": "{core.base.light.halva}",
+        "value": "{core.light.halva}",
         "type": "color",
         "description": "--o-link-color-secondary"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-link-hover-color-secondary"
       }
@@ -323,53 +323,53 @@
   "button": {
     "default": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-button-color"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-button-hover-color"
       },
       "active": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-button-active-color"
       },
       "disabled": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-button-disabled-color"
       },
       "disabled-hover-active": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-button-disabled-hover-active-color"
       },
       "border": {
         "color": {
-          "value": "rgba({core.base.light.curacao}, 0.2)",
+          "value": "rgba({core.light.curacao}, 0.2)",
           "type": "color",
           "description": "--o-button-border-color"
         },
         "hover": {
-          "value": "rgba({core.base.light.raspberry}, 0.2)",
+          "value": "rgba({core.light.raspberry}, 0.2)",
           "type": "color",
           "description": "--o-button-hover-border-color"
         },
         "active": {
-          "value": "rgba({core.base.light.raspberry}, 0.2)",
+          "value": "rgba({core.light.raspberry}, 0.2)",
           "type": "color",
           "description": "--o-button-active-border-color"
         },
         "disabled": {
-          "value": "rgba({core.base.light.curacao}, 0.2)",
+          "value": "rgba({core.light.curacao}, 0.2)",
           "type": "color",
           "description": "--o-button-disabled-border-color"
         },
         "disabled-hover-active": {
-          "value": "rgba({core.base.light.curacao}, 0.2)",
+          "value": "rgba({core.light.curacao}, 0.2)",
           "type": "color",
           "description": "--o-button-disabled-hover-active-border-color"
         }
@@ -385,17 +385,17 @@
     "secondary": {
       "background": {
         "color": {
-          "value": "rgba({core.base.light.curacao}, 0.1)",
+          "value": "rgba({core.light.curacao}, 0.1)",
           "type": "color",
           "description": "--o-button-secondary-background"
         },
         "hover-active": {
-          "value": "rgba({core.base.light.raspberry}, 0.1)",
+          "value": "rgba({core.light.raspberry}, 0.1)",
           "type": "color",
           "description": "--o-button-secondary-hover-active-background"
         },
         "disabled": {
-          "value": "rgba({core.base.light.curacao}, 0.1)",
+          "value": "rgba({core.light.curacao}, 0.1)",
           "type": "color",
           "description": "--o-button-secondary-disabled-background"
         }
@@ -424,24 +424,24 @@
       },
       "background": {
         "color": {
-          "value": "{core.base.light.curacao}",
+          "value": "{core.light.curacao}",
           "type": "color",
           "description": "--o-button-toggled-background"
         },
         "hover": {
-          "value": "{core.base.light.curacao}",
+          "value": "{core.light.curacao}",
           "type": "color",
           "description": "--o-button-toggled-hover-background"
         }
       },
       "border": {
         "color": {
-          "value": "{core.base.light.curacao}",
+          "value": "{core.light.curacao}",
           "type": "color",
           "description": "--o-button-toggled-border-color"
         },
         "hover": {
-          "value": "{core.base.light.curacao}",
+          "value": "{core.light.curacao}",
           "type": "color",
           "description": "--o-button-toggled-hover-border-color"
         }
@@ -454,7 +454,7 @@
         "description": "--o-button-slotinfo-color"
       },
       "background": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-button-slotinfo-background"
       }
@@ -472,7 +472,7 @@
       "description": "--o-input-disabled-color"
     },
     "placeholder": {
-      "value": "{core.base.light.halva}",
+      "value": "{core.light.halva}",
       "type": "color",
       "description": "--o-input-placeholder-color"
     },
@@ -483,7 +483,7 @@
         "description": "--o-input-background-color"
       },
       "invalid": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-input-invalid-background-color"
       },
@@ -495,12 +495,12 @@
     },
     "border": {
       "color": {
-        "value": "{core.base.light.sashagrey}",
+        "value": "{core.light.sashagrey}",
         "type": "color",
         "description": "--o-input-border-color"
       },
       "disabled": {
-        "value": "rgba({core.base.light.sashagrey}, 0.2)",
+        "value": "rgba({core.light.sashagrey}, 0.2)",
         "type": "color",
         "description": "--o-input-disabled-border-color"
       }
@@ -520,17 +520,17 @@
       "description": "--o-alert-color"
     },
     "background": {
-      "value": "{core.base.light.banana}",
+      "value": "{core.light.banana}",
       "type": "color",
       "description": "--o-alert-background"
     },
     "link": {
-      "value": "{core.base.light.curacao}",
+      "value": "{core.light.curacao}",
       "type": "color",
       "description": "--o-alert-link-color"
     },
     "expander-icon": {
-      "value": "{core.base.light.halva}",
+      "value": "{core.light.halva}",
       "type": "color",
       "description": "--o-alert-expander-icon-color"
     },
@@ -541,7 +541,7 @@
         "description": "--o-alert-danger-color"
       },
       "background": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-alert-danger-background"
       }
@@ -565,7 +565,7 @@
         "description": "--o-popup-text-color-danger"
       },
       "background": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-popup-background-danger"
       }
@@ -577,19 +577,19 @@
         "description": "--o-popup-text-color-warning"
       },
       "background": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-popup-background-warning"
       }
     },
     "close-button": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-popup-close-button-color"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-popup-close-button-hover-color"
       }
@@ -603,19 +603,19 @@
     },
     "border": {
       "color": {
-        "value": "rgba({core.base.light.curacao}, 0.2)",
+        "value": "rgba({core.light.curacao}, 0.2)",
         "type": "color",
         "description": "--o-checkbox-border-color"
       },
       "hover": {
-        "value": "rgba({core.base.light.raspberry}, 0.2)",
+        "value": "rgba({core.light.raspberry}, 0.2)",
         "type": "color",
         "description": "--o-checkbox-hover-border-color"
       }
     },
     "slotinfo": {
       "default": {
-        "value": "{core.base.light.halva}",
+        "value": "{core.light.halva}",
         "type": "color",
         "description": "--o-checkbox-slotinfo-default-color"
       },
@@ -625,7 +625,7 @@
         "description": "--o-checkbox-slotinfo-disabled-color"
       },
       "invalid-box-shadow": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-checkbox-invalid-box-shadow-color"
       }
@@ -639,12 +639,12 @@
     },
     "button": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-counter-button-color"
       },
       "disabled": {
-        "value": "{core.base.light.sashagrey}",
+        "value": "{core.light.sashagrey}",
         "type": "color",
         "description": "--o-counter-disabled-button-color"
       }
@@ -657,12 +657,12 @@
       },
       "disabled": {
         "button": {
-          "value": "{core.base.light.halva}",
+          "value": "{core.light.halva}",
           "type": "color",
           "description": "--o-counter-secondary-disabled-button-color"
         },
         "bg": {
-          "value": "rgba({core.base.light.halva}, 0.1)",
+          "value": "rgba({core.light.halva}, 0.1)",
           "type": "color",
           "description": "--o-counter-seconday-disabled-bg"
         }
@@ -694,18 +694,18 @@
   "switch": {
     "background": {
       "color": {
-        "value": "rgba({core.base.light.halva}, 0.32)",
+        "value": "rgba({core.light.halva}, 0.32)",
         "type": "color",
         "description": "--o-switch-background"
       },
       "hover": {
-        "value": "rgba({core.base.light.halva}, 0.64)",
+        "value": "rgba({core.light.halva}, 0.64)",
         "type": "color",
         "description": "--o-switch-hover-background"
       }
     },
     "invalid-box-shadow": {
-      "value": "{core.base.light.banana}",
+      "value": "{core.light.banana}",
       "type": "color",
       "description": "--o-switch-invalid-box-shadow-color"
     }
@@ -732,7 +732,7 @@
       "description": "--o-select-selected-color"
     },
     "checked": {
-      "value": "{core.base.light.curacao}",
+      "value": "{core.light.curacao}",
       "type": "color",
       "description": "--o-select-checked-color"
     },
@@ -743,17 +743,17 @@
         "description": "--o-select-background-color"
       },
       "hover": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-select-hover-background-color"
       },
       "active": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-select-active-background-color"
       },
       "selected": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-select-selected-background-color"
       },
@@ -766,7 +766,7 @@
   },
   "button-toggle": {
     "background": {
-      "value": "rgba({core.base.light.halva}, 0.1)",
+      "value": "rgba({core.light.halva}, 0.1)",
       "type": "color",
       "description": "--o-toggle-background"
     },
@@ -796,12 +796,12 @@
   "toast": {
     "close": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-toast-close-color"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-toast-close-hover-color"
       }
@@ -813,7 +813,7 @@
         "description": "--o-toast-info-color"
       },
       "background": {
-        "value": "{core.base.light.fog}",
+        "value": "{core.light.fog}",
         "type": "color",
         "description": "--o-toast-info-background"
       }
@@ -837,7 +837,7 @@
         "description": "--o-toast-warning-color"
       },
       "background": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-toast-warning-background"
       }
@@ -849,7 +849,7 @@
         "description": "--o-toast-danger-color"
       },
       "background": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-toast-danger-background"
       },
@@ -871,7 +871,7 @@
         "description": "--o-toast-success-color"
       },
       "background": {
-        "value": "{core.base.light.mint}",
+        "value": "{core.light.mint}",
         "type": "color",
         "description": "--o-toast-success-background"
       }
@@ -888,12 +888,12 @@
         "description": "--o-toast-hint-background"
       },
       "close": {
-        "value": "{core.base.light.halva}",
+        "value": "{core.light.halva}",
         "type": "color",
         "description": "--o-toast-hint-close-btn-color"
       },
       "close-hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-toast-hint-close-btn-hover-color"
       }
@@ -907,19 +907,19 @@
     },
     "border": {
       "color": {
-        "value": "rgba({core.base.light.curacao}, 0.2)",
+        "value": "rgba({core.light.curacao}, 0.2)",
         "type": "color",
         "description": "--o-radio-border-color"
       },
       "hover": {
-        "value": "rgba({core.base.light.raspberry}, 0.2)",
+        "value": "rgba({core.light.raspberry}, 0.2)",
         "type": "color",
         "description": "--o-radio-hover-border-color"
       }
     },
     "slotinfo": {
       "default": {
-        "value": "{core.base.light.halva}",
+        "value": "{core.light.halva}",
         "type": "color",
         "description": "---o-radio-slotinfo-default-color"
       },
@@ -929,7 +929,7 @@
         "description": "--o-radio-slotinfo-disabled-color"
       },
       "invalid-box-shadow": {
-        "value": "{core.base.light.banana}",
+        "value": "{core.light.banana}",
         "type": "color",
         "description": "--o-radio-invalid-box-shadow-color"
       }
@@ -937,29 +937,29 @@
   },
   "date-input-arrow": {
     "border": {
-      "value": "rgba({core.base.light.curacao}, 0.2)",
+      "value": "rgba({core.light.curacao}, 0.2)",
       "type": "color",
       "description": "--o-date-input-arrow-border-color"
     },
     "navbutton": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-calendar-navbutton-color"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-calendar-navbutton-hover-color"
       },
       "active": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-calendar-navbutton-active-color"
       }
     },
     "weekday": {
-      "value": "{core.base.light.halva}",
+      "value": "{core.light.halva}",
       "type": "color",
       "description": "--o-calendar-weekday-color"
     },
@@ -975,22 +975,22 @@
         "description": "--o-calendar-day-hover-color"
       },
       "active": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-calendar-navbutton-active-color"
       },
       "background-hover": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-calendar-day-hover-background-color"
       },
       "today-border": {
-        "value": "rgba({core.base.light.curacao}, 0.2)",
+        "value": "rgba({core.light.curacao}, 0.2)",
         "type": "color",
         "description": "--o-calendar-day-today-border-color"
       },
       "weekend": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-calendar-day-weekend-holiday-color"
       },
@@ -1002,12 +1002,12 @@
     },
     "today-button": {
       "color": {
-        "value": "{core.base.light.curacao}",
+        "value": "{core.light.curacao}",
         "type": "color",
         "description": "--o-calendar-today-button-color"
       },
       "hover": {
-        "value": "{core.base.light.raspberry}",
+        "value": "{core.light.raspberry}",
         "type": "color",
         "description": "--o-calendar-today-button-hover-color"
       }

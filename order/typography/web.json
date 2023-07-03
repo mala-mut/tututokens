@@ -2,7 +2,7 @@
   "headerXXL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 56,
       "lineHeight": 64,
       "letterSpacing": 0,
@@ -15,7 +15,7 @@
   "headerXL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 36,
       "lineHeight": 40,
       "letterSpacing": 0,
@@ -28,7 +28,7 @@
   "headerL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 30,
       "lineHeight": 34,
       "letterSpacing": 0,
@@ -41,7 +41,7 @@
   "headerM": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 24,
       "lineHeight": 28,
       "letterSpacing": 0,
@@ -54,7 +54,7 @@
   "headerS": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 17,
       "lineHeight": 20,
       "letterSpacing": 0,
@@ -67,7 +67,7 @@
   "headerXS": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "600",
+      "fontWeight": "Bold",
       "fontSize": 15,
       "lineHeight": 20,
       "letterSpacing": 0,
@@ -80,7 +80,7 @@
   "paragraphXXL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 36,
       "lineHeight": 40,
       "letterSpacing": 0,
@@ -93,7 +93,7 @@
   "paragraphXL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 17,
       "lineHeight": 24,
       "letterSpacing": 0,
@@ -106,7 +106,7 @@
   "paragraphL": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 15,
       "lineHeight": 20,
       "letterSpacing": 0,
@@ -119,7 +119,7 @@
   "paragraphM": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 15,
       "lineHeight": 20,
       "letterSpacing": 0,
@@ -132,7 +132,7 @@
   "paragraphS": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 13,
       "lineHeight": 20,
       "letterSpacing": 0,
@@ -145,7 +145,7 @@
   "paragraphXS": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 12,
       "lineHeight": 16,
       "letterSpacing": 0,
@@ -158,7 +158,7 @@
   "paragraphXXS": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 10,
       "lineHeight": 16,
       "letterSpacing": 0,
@@ -171,7 +171,7 @@
   "captionL": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 12,
       "lineHeight": 16,
       "letterSpacing": 0,
@@ -184,7 +184,7 @@
   "captionM": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 12,
       "lineHeight": 16,
       "letterSpacing": 0,
@@ -197,7 +197,7 @@
   "captionS": {
     "value": {
       "fontFamily": "ALS Direct",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 10,
       "lineHeight": 16,
       "letterSpacing": 0,
@@ -210,7 +210,7 @@
   "captionXS": {
     "value": {
       "fontFamily": "SF Pro Text",
-      "fontWeight": "400",
+      "fontWeight": "Regular",
       "fontSize": 10,
       "lineHeight": 16,
       "letterSpacing": 0,

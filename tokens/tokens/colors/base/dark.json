@@ -8,7 +8,7 @@
       "value": "rgba({core.halva.100}, 0.6)"
     },
     "brand": {
-      "value": "{core.aubergine.500}"
+      "value": "{core.curacao.500}"
     },
     "link": {
       "value": "{core.curacao.450}"

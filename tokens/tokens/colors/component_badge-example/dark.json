@@ -1,58 +1,73 @@
 {
-  "type": "color",
   "dark": {
     "text": {
       "primary": {
-        "value": "{core.halva.100}"
+        "value": "{core.halva.100}",
+        "type": "color"
       },
       "secondary": {
-        "value": "rgba({core.halva.100}, 0.6)"
+        "value": "rgba({core.halva.100}, 0.6}",
+        "type": "color"
       },
       "brand": {
-        "value": "{core.curacao.500}"
+        "value": "{core.curacao.500}",
+        "type": "color"
       },
       "link": {
-        "value": "{core.curacao.450}"
+        "value": "{core.curacao.450}",
+        "type": "color"
       },
       "positive": {
-        "value": "{core.kiwi.500}"
+        "value": "{core.kiwi.500}",
+        "type": "color"
       },
       "warning": {
-        "value": "{core.banana.500}"
+        "value": "{core.banana.500}",
+        "type": "color"
       },
       "negative": {
-        "value": "{core.strawberry.450}"
+        "value": "{core.strawberry.450}",
+        "type": "color"
       }
     },
     "graphic": {
       "primary": {
-        "value": "{core.halva.100}"
+        "value": "{core.halva.100}",
+        "type": "color"
       },
       "secondary": {
-        "value": "{core.halva.300}"
+        "value": "{core.halva.300}",
+        "type": "color"
       },
       "tertiary": {
-        "value": "{core.halva.500}"
+        "value": "{core.halva.500}",
+        "type": "color"
       },
       "brand": {
-        "value": "{core.curacao.500}"
+        "value": "{core.curacao.500}",
+        "type": "color"
       },
       "link": {
-        "value": "{core.curacao.450}"
+        "value": "{core.curacao.450}",
+        "type": "color"
       },
       "positive": {
-        "value": "{core.kiwi.500}"
+        "value": "{core.kiwi.500}",
+        "type": "color"
       },
       "warning": {
-        "value": "{core.banana.500}"
+        "value": "{core.banana.500}",
+        "type": "color"
       },
       "negative": {
-        "value": "{core.strawberry.450}"
+        "value": "{core.strawberry.450}",
+        "type": "color"
       }
     },
     "border": {
       "separator": {
-        "value": "rgba({core.halva.100}, 0.07)"
+        "value": "rgba({core.halva.100}, 0.07}",
+        "type": "color"
       }
     }
   }

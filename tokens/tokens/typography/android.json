@@ -1,5 +1,4 @@
 {
-  "type": "typography",
   "big": {
     "500": {
       "value": {
@@ -12,7 +11,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_950": {
       "value": {
@@ -25,7 +25,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_900": {
       "value": {
@@ -38,7 +39,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_850": {
       "value": {
@@ -51,7 +53,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -64,7 +67,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_750": {
       "value": {
@@ -77,7 +81,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -90,7 +95,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -103,7 +109,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -116,7 +123,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "big-accent": {
@@ -131,7 +139,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "600": {
       "value": {
@@ -144,7 +153,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "700": {
       "value": {
@@ -157,7 +167,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "800": {
       "value": {
@@ -170,7 +181,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "900": {
       "value": {
@@ -183,7 +195,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_950": {
       "value": {
@@ -196,7 +209,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_850": {
       "value": {
@@ -209,7 +223,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_750": {
       "value": {
@@ -222,7 +237,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -235,7 +251,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "text": {
@@ -250,7 +267,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "500": {
       "value": {
@@ -263,7 +281,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "600": {
       "value": {
@@ -276,7 +295,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -289,7 +309,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -302,7 +323,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "text-accent": {
@@ -317,7 +339,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -330,7 +353,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -343,7 +367,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -356,7 +381,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -369,7 +395,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "compact": {
@@ -384,7 +411,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "500": {
       "value": {
@@ -397,7 +425,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -410,7 +439,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -423,7 +453,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -436,7 +467,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "compact-accent": {
@@ -451,7 +483,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -464,7 +497,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -477,7 +511,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -490,7 +525,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -503,7 +539,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "numeric": {
@@ -520,7 +557,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -535,7 +573,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -550,7 +589,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -565,7 +605,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -580,7 +621,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "numeric-accent": {
@@ -597,7 +639,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -612,7 +655,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -627,7 +671,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -642,7 +687,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -657,7 +703,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "article": {
@@ -672,7 +719,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -685,7 +733,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -698,7 +747,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -711,7 +761,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -724,7 +775,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -737,7 +789,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   }
 }

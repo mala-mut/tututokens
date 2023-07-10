@@ -1,5 +1,4 @@
 {
-  "type": "typography",
   "big": {
     "200": {
       "value": {
@@ -12,7 +11,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_900": {
       "value": {
@@ -25,7 +25,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_850": {
       "value": {
@@ -38,7 +39,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -51,7 +53,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_750": {
       "value": {
@@ -64,7 +67,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -77,7 +81,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_650": {
       "value": {
@@ -90,7 +95,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -103,7 +109,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_550": {
       "value": {
@@ -116,7 +123,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -129,7 +137,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_450": {
       "value": {
@@ -142,7 +151,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -155,7 +165,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_350": {
       "value": {
@@ -168,7 +179,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_300": {
       "value": {
@@ -181,7 +193,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_250": {
       "value": {
@@ -194,7 +207,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_100": {
       "value": {
@@ -207,7 +221,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "big-accent": {
@@ -222,7 +237,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "250": {
       "value": {
@@ -235,7 +251,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "300": {
       "value": {
@@ -248,7 +265,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "350": {
       "value": {
@@ -261,7 +279,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "400": {
       "value": {
@@ -274,7 +293,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "450": {
       "value": {
@@ -287,7 +307,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "500": {
       "value": {
@@ -300,7 +321,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "550": {
       "value": {
@@ -313,7 +335,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "600": {
       "value": {
@@ -326,7 +349,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "650": {
       "value": {
@@ -339,7 +363,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "750": {
       "value": {
@@ -352,7 +377,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "900": {
       "value": {
@@ -365,7 +391,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_850": {
       "value": {
@@ -378,7 +405,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -391,7 +419,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -404,7 +433,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_100": {
       "value": {
@@ -417,7 +447,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "text": {
@@ -432,7 +463,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "500": {
       "value": {
@@ -445,7 +477,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "600": {
       "value": {
@@ -458,7 +491,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -471,7 +505,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -484,7 +519,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "text-accent": {
@@ -499,7 +535,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -512,7 +549,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -525,7 +563,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -538,7 +577,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -551,7 +591,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "compact": {
@@ -566,7 +607,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "500": {
       "value": {
@@ -579,7 +621,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -592,7 +635,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -605,7 +649,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -618,7 +663,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "compact-accent": {
@@ -633,7 +679,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -646,7 +693,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -659,7 +707,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -672,7 +721,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -685,7 +735,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "numeric": {
@@ -702,7 +753,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_800": {
       "value": {
@@ -717,7 +769,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -732,7 +785,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -747,7 +801,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -762,7 +817,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "numeric-accent": {
@@ -779,7 +835,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_700": {
       "value": {
@@ -794,7 +851,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_600": {
       "value": {
@@ -809,7 +867,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -824,7 +883,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -839,7 +899,8 @@
           "tnum"
         ],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   },
   "article": {
@@ -854,7 +915,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "700": {
       "value": {
@@ -867,7 +929,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "800": {
       "value": {
@@ -880,7 +943,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "900": {
       "value": {
@@ -893,7 +957,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_500": {
       "value": {
@@ -906,7 +971,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     },
     "_400": {
       "value": {
@@ -919,7 +985,8 @@
         "textCase": "none",
         "openType": [],
         "textDecoration": "none"
-      }
+      },
+      "type": "typography"
     }
   }
 }

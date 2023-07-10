@@ -1,123 +1,154 @@
 {
-  "type": "color",
   "bg": {
     "primary": {
-      "value": "{core.curacao.500}"
+      "value": "{core.curacao.500}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.halva.700}"
+      "value": "{core.halva.700}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.halva.800}"
+      "value": "{core.halva.800}",
+      "type": "color"
     },
     "info": {
-      "value": "{core.banana.500}"
+      "value": "{core.banana.500}",
+      "type": "color"
     }
   },
   "graphic": {
     "primary": {
-      "value": "{core.halva.000}"
+      "value": "{core.halva.000}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.curacao.450}"
+      "value": "{core.curacao.450}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.curacao.450}"
+      "value": "{core.curacao.450}",
+      "type": "color"
     }
   },
   "border": {
     "tertiary": {
-      "value": "rgba({core.curacao.500}, 0.3)"
+      "value": "rgba({core.curacao.500}, 0.3}",
+      "type": "color"
     }
   },
   "text": {
     "primary": {
-      "value": "{core.halva.000}"
+      "value": "{core.halva.000}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.curacao.450}"
+      "value": "{core.curacao.450}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.curacao.450}"
+      "value": "{core.curacao.450}",
+      "type": "color"
     },
     "info": {
-      "value": "{core.halva.900}"
+      "value": "{core.halva.900}",
+      "type": "color"
     }
   },
   "bg-hover": {
     "primary": {
-      "value": "{core.curacao.450}"
+      "value": "{core.curacao.450}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.halva.600}"
+      "value": "{core.halva.600}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.halva.700}"
+      "value": "{core.halva.700}",
+      "type": "color"
     }
   },
   "graphic-hover": {
     "primary": {
-      "value": "{core.halva.000}"
+      "value": "{core.halva.000}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.curacao.350}"
+      "value": "{core.curacao.350}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.curacao.350}"
+      "value": "{core.curacao.350}",
+      "type": "color"
     }
   },
   "border-hover": {
     "tertiary": {
-      "value": "rgba({core.curacao.350}, 0.3)"
+      "value": "rgba({core.curacao.350}, 0.3}",
+      "type": "color"
     }
   },
   "text-hover": {
     "primary": {
-      "value": "{core.halva.000}"
+      "value": "{core.halva.000}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.curacao.350}"
+      "value": "{core.curacao.350}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.curacao.350}"
+      "value": "{core.curacao.350}",
+      "type": "color"
     }
   },
   "bg-disabled": {
     "primary": {
-      "value": "{core.halva.700}"
+      "value": "{core.halva.700}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.halva.700}"
+      "value": "{core.halva.700}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.halva.800}"
+      "value": "{core.halva.800}",
+      "type": "color"
     }
   },
   "graphic-disabled": {
     "primary": {
-      "value": "{core.halva.550}"
+      "value": "{core.halva.550}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.halva.550}"
+      "value": "{core.halva.550}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.halva.600}"
+      "value": "{core.halva.600}",
+      "type": "color"
     }
   },
   "border-disabled": {
     "tertiary": {
-      "value": "rgba({core.halva.350}, 0.3)"
+      "value": "rgba({core.halva.350}, 0.3}",
+      "type": "color"
     }
   },
   "text-disabled": {
     "primary": {
-      "value": "{core.halva.550}"
+      "value": "{core.halva.550}",
+      "type": "color"
     },
     "secondary": {
-      "value": "{core.halva.550}"
+      "value": "{core.halva.550}",
+      "type": "color"
     },
     "tertiary": {
-      "value": "{core.halva.600}"
+      "value": "{core.halva.600}",
+      "type": "color"
     }
   }
 }

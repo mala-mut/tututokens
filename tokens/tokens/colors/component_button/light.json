@@ -33,7 +33,7 @@
   },
   "border": {
     "tertiary": {
-      "value": "rgba({core.curacao.550}, 0.3}",
+      "value": "rgba({core.curacao.550}, 0.3)",
       "type": "color"
     }
   },
@@ -85,7 +85,7 @@
   },
   "border-hover": {
     "tertiary": {
-      "value": "rgba({core.curacao.650}, 0.3}",
+      "value": "rgba({core.curacao.650}, 0.3)",
       "type": "color"
     }
   },
@@ -133,7 +133,7 @@
   },
   "border-disabled": {
     "tertiary": {
-      "value": "rgba({core.halva.650}, 0.3}",
+      "value": "rgba({core.halva.650}, 0.3)",
       "type": "color"
     }
   },

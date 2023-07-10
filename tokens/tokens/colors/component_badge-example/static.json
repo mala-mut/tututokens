@@ -10,11 +10,11 @@
         "type": "color"
       },
       "secondary-on-light": {
-        "value": "rgba({core.halva.900}, 0.8}",
+        "value": "rgba({core.halva.900}, 0.8)",
         "type": "color"
       },
       "secondary-on-dark": {
-        "value": "rgba({core.halva.100}, 0.8}",
+        "value": "rgba({core.halva.100}, 0.8)",
         "type": "color"
       }
     },

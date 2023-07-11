@@ -1,0 +1,78 @@
+{
+  "banana": {
+    "value": "#fff699",
+    "type": "color"
+  },
+  "blackZebra": {
+    "value": "#000",
+    "type": "color"
+  },
+  "cloud": {
+    "value": "#e7edf4",
+    "type": "color"
+  },
+  "curacao": {
+    "value": "#0073ff",
+    "type": "color"
+  },
+  "fog": {
+    "value": "#edf2fa",
+    "type": "color"
+  },
+  "grass": {
+    "value": "#96e542",
+    "type": "color"
+  },
+  "halva": {
+    "value": "#808899",
+    "type": "color"
+  },
+  "ink": {
+    "value": "#4b6aa6",
+    "type": "color"
+  },
+  "kiwi": {
+    "value": "#3da112",
+    "type": "color"
+  },
+  "lemon": {
+    "value": "#ffee55",
+    "type": "color"
+  },
+  "lime": {
+    "value": "#5ac82c",
+    "type": "color"
+  },
+  "mint": {
+    "value": "#dbffb8",
+    "type": "color"
+  },
+  "rain": {
+    "value": "#a0acc0",
+    "type": "color"
+  },
+  "raspberry": {
+    "value": "#ff4169",
+    "type": "color"
+  },
+  "sashagrey": {
+    "value": "#c3cfdf",
+    "type": "color"
+  },
+  "shadow": {
+    "value": "#c1d2df",
+    "type": "color"
+  },
+  "strawberry": {
+    "value": "#ff6157",
+    "type": "color"
+  },
+  "whiteZebra": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "toastBackground": {
+    "value": "#151f2b",
+    "type": "color"
+  }
+}

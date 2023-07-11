@@ -1,0 +1,16 @@
+{
+  "base": {
+    "blackberry": {
+      "value": "#000",
+      "type": "color"
+    },
+    "icecream": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "coal": {
+      "value": "#161f2b",
+      "type": "color"
+    }
+  }
+}
